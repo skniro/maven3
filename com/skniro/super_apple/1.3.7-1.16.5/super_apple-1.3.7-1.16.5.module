@@ -1,0 +1,404 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.skniro",
+    "module": "super_apple",
+    "version": "1.3.7-1.16.5",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.6"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "super_apple-1.3.7-1.16.5-dev.jar",
+          "url": "super_apple-1.3.7-1.16.5-dev.jar",
+          "size": 78374,
+          "sha512": "687899db593407b1f7e74963592afe0b40ef094b5ff4b4d88da1fffc1a9ffdf84dc10fb9a39442645c14b1ac55cb39068481ae5ca7fc3324a66441c1a11f8700",
+          "sha256": "edf594b109db5bc2bedb11e3e2d9b546cb305f410e412fe57b5821990259cac9",
+          "sha1": "68af00e106dc326f3b10a9ba059f42f49ab6fdbe",
+          "md5": "b6b2906bac4ac9db6bf8690644cd3197"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "net_fabricmc_yarn_1_16_5_1_16_5_build_10_v2.net.fabricmc.fabric-api",
+          "module": "fabric-api",
+          "version": {
+            "requires": "0.42.0+1.16"
+          }
+        },
+        {
+          "group": "net_fabricmc_yarn_1_16_5_1_16_5_build_10_v2.net.fabricmc.fabric-api",
+          "module": "fabric-transfer-api-v1",
+          "version": {
+            "requires": "1.5.0+3cc0f0907d"
+          }
+        },
+        {
+          "group": "net_fabricmc_yarn_1_16_5_1_16_5_build_10_v2.net.fabricmc.fabric-api",
+          "module": "fabric-api-lookup-api-v1",
+          "version": {
+            "requires": "1.3.1+3cc0f0907d"
+          }
+        },
+        {
+          "group": "net_fabricmc_yarn_1_16_5_1_16_5_build_10_v2.net.fabricmc.fabric-api",
+          "module": "fabric-blockrenderlayer-v1",
+          "version": {
+            "requires": "1.1.6+3cc0f0907d"
+          }
+        },
+        {
+          "group": "net_fabricmc_yarn_1_16_5_1_16_5_build_10_v2.net.fabricmc.fabric-api",
+          "module": "fabric-commands-v0",
+          "version": {
+            "requires": "0.2.3+3cc0f0907d"
+          }
+        },
+        {
+          "group": "net_fabricmc_yarn_1_16_5_1_16_5_build_10_v2.net.fabricmc.fabric-api",
+          "module": "fabric-command-api-v1",
+          "version": {
+            "requires": "1.1.3+3cc0f0907d"
+          }
+        },
+        {
+          "group": "net_fabricmc_yarn_1_16_5_1_16_5_build_10_v2.net.fabricmc.fabric-api",
+          "module": "fabric-containers-v0",
+          "version": {
+            "requires": "0.1.12+3cc0f0907d"
+          }
+        },
+        {
+          "group": "net_fabricmc_yarn_1_16_5_1_16_5_build_10_v2.net.fabricmc.fabric-api",
+          "module": "fabric-content-registries-v0",
+          "version": {
+            "requires": "0.2.5+3cc0f0907d"
+          }
+        },
+        {
+          "group": "net_fabricmc_yarn_1_16_5_1_16_5_build_10_v2.net.fabricmc.fabric-api",
+          "module": "fabric-dimensions-v1",
+          "version": {
+            "requires": "2.0.8+3cc0f0907d"
+          }
+        },
+        {
+          "group": "net_fabricmc_yarn_1_16_5_1_16_5_build_10_v2.net.fabricmc.fabric-api",
+          "module": "fabric-entity-events-v1",
+          "version": {
+            "requires": "1.2.4+3cc0f0907d"
+          }
+        },
+        {
+          "group": "net_fabricmc_yarn_1_16_5_1_16_5_build_10_v2.net.fabricmc.fabric-api",
+          "module": "fabric-events-interaction-v0",
+          "version": {
+            "requires": "0.4.5+3cc0f0907d"
+          }
+        },
+        {
+          "group": "net_fabricmc_yarn_1_16_5_1_16_5_build_10_v2.net.fabricmc.fabric-api",
+          "module": "fabric-events-lifecycle-v0",
+          "version": {
+            "requires": "0.2.2+3cc0f0907d"
+          }
+        },
+        {
+          "group": "net_fabricmc_yarn_1_16_5_1_16_5_build_10_v2.net.fabricmc.fabric-api",
+          "module": "fabric-item-api-v1",
+          "version": {
+            "requires": "1.2.2+3cc0f0907d"
+          }
+        },
+        {
+          "group": "net_fabricmc_yarn_1_16_5_1_16_5_build_10_v2.net.fabricmc.fabric-api",
+          "module": "fabric-item-groups-v0",
+          "version": {
+            "requires": "0.3.1+3cc0f0907d"
+          }
+        },
+        {
+          "group": "net_fabricmc_yarn_1_16_5_1_16_5_build_10_v2.net.fabricmc.fabric-api",
+          "module": "fabric-structure-api-v1",
+          "version": {
+            "requires": "1.1.12+3cc0f0907d"
+          }
+        },
+        {
+          "group": "net_fabricmc_yarn_1_16_5_1_16_5_build_10_v2.net.fabricmc.fabric-api",
+          "module": "fabric-lifecycle-events-v1",
+          "version": {
+            "requires": "1.2.2+3cc0f0907d"
+          }
+        },
+        {
+          "group": "net_fabricmc_yarn_1_16_5_1_16_5_build_10_v2.net.fabricmc.fabric-api",
+          "module": "fabric-loot-tables-v1",
+          "version": {
+            "requires": "1.0.3+3cc0f0907d"
+          }
+        },
+        {
+          "group": "net_fabricmc_yarn_1_16_5_1_16_5_build_10_v2.net.fabricmc.fabric-api",
+          "module": "fabric-mining-levels-v0",
+          "version": {
+            "requires": "0.1.4+3cc0f0907d"
+          }
+        },
+        {
+          "group": "net_fabricmc_yarn_1_16_5_1_16_5_build_10_v2.net.fabricmc.fabric-api",
+          "module": "fabric-models-v0",
+          "version": {
+            "requires": "0.3.1+3cc0f0907d"
+          }
+        },
+        {
+          "group": "net_fabricmc_yarn_1_16_5_1_16_5_build_10_v2.net.fabricmc.fabric-api",
+          "module": "fabric-networking-v0",
+          "version": {
+            "requires": "0.3.3+3cc0f0907d"
+          }
+        },
+        {
+          "group": "net_fabricmc_yarn_1_16_5_1_16_5_build_10_v2.net.fabricmc.fabric-api",
+          "module": "fabric-registry-sync-v0",
+          "version": {
+            "requires": "0.7.6+3cc0f0907d"
+          }
+        },
+        {
+          "group": "net_fabricmc_yarn_1_16_5_1_16_5_build_10_v2.net.fabricmc.fabric-api",
+          "module": "fabric-screen-handler-api-v1",
+          "version": {
+            "requires": "1.1.6+3cc0f0907d"
+          }
+        },
+        {
+          "group": "net_fabricmc_yarn_1_16_5_1_16_5_build_10_v2.net.fabricmc.fabric-api",
+          "module": "fabric-networking-api-v1",
+          "version": {
+            "requires": "1.0.5+3cc0f0907d"
+          }
+        },
+        {
+          "group": "net_fabricmc_yarn_1_16_5_1_16_5_build_10_v2.net.fabricmc.fabric-api",
+          "module": "fabric-networking-blockentity-v0",
+          "version": {
+            "requires": "0.2.9+3cc0f0907d"
+          }
+        },
+        {
+          "group": "net_fabricmc_yarn_1_16_5_1_16_5_build_10_v2.net.fabricmc.fabric-api",
+          "module": "fabric-object-builders-v0",
+          "version": {
+            "requires": "0.7.3+3cc0f0907d"
+          }
+        },
+        {
+          "group": "net_fabricmc_yarn_1_16_5_1_16_5_build_10_v2.net.fabricmc.fabric-api",
+          "module": "fabric-object-builder-api-v1",
+          "version": {
+            "requires": "1.9.6+3cc0f0907d"
+          }
+        },
+        {
+          "group": "net_fabricmc_yarn_1_16_5_1_16_5_build_10_v2.net.fabricmc.fabric-api",
+          "module": "fabric-particles-v1",
+          "version": {
+            "requires": "0.2.5+3cc0f0907d"
+          }
+        },
+        {
+          "group": "net_fabricmc_yarn_1_16_5_1_16_5_build_10_v2.net.fabricmc.fabric-api",
+          "module": "fabric-renderer-indigo",
+          "version": {
+            "requires": "0.4.5+3cc0f0907d"
+          }
+        },
+        {
+          "group": "net_fabricmc_yarn_1_16_5_1_16_5_build_10_v2.net.fabricmc.fabric-api",
+          "module": "fabric-renderer-api-v1",
+          "version": {
+            "requires": "0.4.5+3cc0f0907d"
+          }
+        },
+        {
+          "group": "net_fabricmc_yarn_1_16_5_1_16_5_build_10_v2.net.fabricmc.fabric-api",
+          "module": "fabric-renderer-registries-v1",
+          "version": {
+            "requires": "2.3.1+3cc0f0907d"
+          }
+        },
+        {
+          "group": "net_fabricmc_yarn_1_16_5_1_16_5_build_10_v2.net.fabricmc.fabric-api",
+          "module": "fabric-rendering-data-attachment-v1",
+          "version": {
+            "requires": "0.1.6+3cc0f0907d"
+          }
+        },
+        {
+          "group": "net_fabricmc_yarn_1_16_5_1_16_5_build_10_v2.net.fabricmc.fabric-api",
+          "module": "fabric-rendering-fluids-v1",
+          "version": {
+            "requires": "0.1.15+3cc0f0907d"
+          }
+        },
+        {
+          "group": "net_fabricmc_yarn_1_16_5_1_16_5_build_10_v2.net.fabricmc.fabric-api",
+          "module": "fabric-rendering-v0",
+          "version": {
+            "requires": "1.1.3+3cc0f0907d"
+          }
+        },
+        {
+          "group": "net_fabricmc_yarn_1_16_5_1_16_5_build_10_v2.net.fabricmc.fabric-api",
+          "module": "fabric-rendering-v1",
+          "version": {
+            "requires": "1.6.1+3cc0f0907d"
+          }
+        },
+        {
+          "group": "net_fabricmc_yarn_1_16_5_1_16_5_build_10_v2.net.fabricmc.fabric-api",
+          "module": "fabric-screen-api-v1",
+          "version": {
+            "requires": "1.0.1+3cc0f0907d"
+          }
+        },
+        {
+          "group": "net_fabricmc_yarn_1_16_5_1_16_5_build_10_v2.net.fabricmc.fabric-api",
+          "module": "fabric-tool-attribute-api-v1",
+          "version": {
+            "requires": "1.2.8+3cc0f0907d"
+          }
+        },
+        {
+          "group": "net_fabricmc_yarn_1_16_5_1_16_5_build_10_v2.net.fabricmc.fabric-api",
+          "module": "fabric-tag-extensions-v0",
+          "version": {
+            "requires": "1.1.2+3cc0f0907d"
+          }
+        },
+        {
+          "group": "net_fabricmc_yarn_1_16_5_1_16_5_build_10_v2.net.fabricmc.fabric-api",
+          "module": "fabric-textures-v0",
+          "version": {
+            "requires": "1.0.7+3cc0f0907d"
+          }
+        },
+        {
+          "group": "net_fabricmc_yarn_1_16_5_1_16_5_build_10_v2.net.fabricmc.fabric-api",
+          "module": "fabric-api-base",
+          "version": {
+            "requires": "0.4.0+3cc0f0907d"
+          }
+        },
+        {
+          "group": "net_fabricmc_yarn_1_16_5_1_16_5_build_10_v2.net.fabricmc.fabric-api",
+          "module": "fabric-biome-api-v1",
+          "version": {
+            "requires": "3.1.13+3cc0f0907d"
+          }
+        },
+        {
+          "group": "net_fabricmc_yarn_1_16_5_1_16_5_build_10_v2.net.fabricmc.fabric-api",
+          "module": "fabric-crash-report-info-v1",
+          "version": {
+            "requires": "0.1.4+3cc0f0907d"
+          }
+        },
+        {
+          "group": "net_fabricmc_yarn_1_16_5_1_16_5_build_10_v2.net.fabricmc.fabric-api",
+          "module": "fabric-game-rule-api-v1",
+          "version": {
+            "requires": "1.0.7+3cc0f0907d"
+          }
+        },
+        {
+          "group": "net_fabricmc_yarn_1_16_5_1_16_5_build_10_v2.net.fabricmc.fabric-api",
+          "module": "fabric-keybindings-v0",
+          "version": {
+            "requires": "0.2.2+3cc0f0907d"
+          }
+        },
+        {
+          "group": "net_fabricmc_yarn_1_16_5_1_16_5_build_10_v2.net.fabricmc.fabric-api",
+          "module": "fabric-key-binding-api-v1",
+          "version": {
+            "requires": "1.0.5+3cc0f0907d"
+          }
+        },
+        {
+          "group": "net_fabricmc_yarn_1_16_5_1_16_5_build_10_v2.net.fabricmc.fabric-api",
+          "module": "fabric-resource-loader-v0",
+          "version": {
+            "requires": "0.4.8+3cc0f0907d"
+          }
+        },
+        {
+          "group": "net_fabricmc_yarn_1_16_5_1_16_5_build_10_v2.net.fabricmc",
+          "module": "fabric-loader",
+          "version": {
+            "requires": "0.14.13"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "super_apple-1.3.7-1.16.5-dev.jar",
+          "url": "super_apple-1.3.7-1.16.5-dev.jar",
+          "size": 78374,
+          "sha512": "687899db593407b1f7e74963592afe0b40ef094b5ff4b4d88da1fffc1a9ffdf84dc10fb9a39442645c14b1ac55cb39068481ae5ca7fc3324a66441c1a11f8700",
+          "sha256": "edf594b109db5bc2bedb11e3e2d9b546cb305f410e412fe57b5821990259cac9",
+          "sha1": "68af00e106dc326f3b10a9ba059f42f49ab6fdbe",
+          "md5": "b6b2906bac4ac9db6bf8690644cd3197"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "super_apple-1.3.7-1.16.5-sources.jar",
+          "url": "super_apple-1.3.7-1.16.5-sources.jar",
+          "size": 68175,
+          "sha512": "e120f4e9ca259d9b7f29cfd9ed10f72c4341af0fcfcade90ed5f49536bc0857ed40957f40715d45baa3ad53a59cd441b69042d062d95e64c5dd99c80fb72b4b8",
+          "sha256": "6fb8e0b479479fa6833016ea0cceffe8be9a44ca09e6889641b05a7a5f411f14",
+          "sha1": "05a95ab6dd009723f7ddd5d882817e7e51ea8604",
+          "md5": "98350964f780b4da9fe29e6f5d0cd14a"
+        }
+      ]
+    }
+  ]
+}

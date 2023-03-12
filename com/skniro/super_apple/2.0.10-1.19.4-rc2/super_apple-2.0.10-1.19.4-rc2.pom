@@ -8,8 +8,8 @@
   <!-- do_not_remove: published-with-gradle-metadata -->
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.skniro</groupId>
-  <artifactId>Super_Apple</artifactId>
-  <version>2.0.9-1.19.4-pre4</version>
+  <artifactId>super_apple</artifactId>
+  <version>2.0.10-1.19.4-rc2</version>
   <dependencies>
     <dependency>
       <groupId>net.fabricmc</groupId>

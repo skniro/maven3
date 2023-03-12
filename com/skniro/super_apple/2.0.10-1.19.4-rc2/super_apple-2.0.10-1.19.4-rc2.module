@@ -2,8 +2,8 @@
   "formatVersion": "1.1",
   "component": {
     "group": "com.skniro",
-    "module": "Super_Apple",
-    "version": "2.0.9-1.19.4-pre4",
+    "module": "super_apple",
+    "version": "2.0.10-1.19.4-rc2",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -25,13 +25,13 @@
       },
       "files": [
         {
-          "name": "Super_Apple-2.0.9-1.19.4-pre4.jar",
-          "url": "Super_Apple-2.0.9-1.19.4-pre4.jar",
-          "size": 96975,
-          "sha512": "736fb60e4a6c1867c20f54c6d9b16203f7f950e651cfea1744ff0517d0cfd1043d1aa7b526d55078c53c9c928a43ec1cf82e378cb0db7cf367674a81f9c553c1",
-          "sha256": "70eaa693d27bc9d2635221c3ad067f73bc302eb7bbeb1d3ef0f5f2e3b4ad3a90",
-          "sha1": "555baec832c879683330fc55ec45513c401f1b80",
-          "md5": "49ea14612670dba8c10fe9e19c72b9b3"
+          "name": "super_apple-2.0.10-1.19.4-rc2.jar",
+          "url": "super_apple-2.0.10-1.19.4-rc2.jar",
+          "size": 96978,
+          "sha512": "c8dea91ab09845423511df37f0c8a4edc3ec9be5795acbf5d6cad78ae59e6617a23f52dbc7ed91bd5362242b854b3795616dee748493aadc8a3152c560a7de7f",
+          "sha256": "f7f604547fb80012853b366602f26bd6a549b37aed38b997d9018263826b4fe5",
+          "sha1": "1dccfc0083cecdb70643609e1a71489fe833ba03",
+          "md5": "791f1e58376de98060756afbadb6d62b"
         }
       ]
     },
@@ -62,13 +62,13 @@
       ],
       "files": [
         {
-          "name": "Super_Apple-2.0.9-1.19.4-pre4.jar",
-          "url": "Super_Apple-2.0.9-1.19.4-pre4.jar",
-          "size": 96975,
-          "sha512": "736fb60e4a6c1867c20f54c6d9b16203f7f950e651cfea1744ff0517d0cfd1043d1aa7b526d55078c53c9c928a43ec1cf82e378cb0db7cf367674a81f9c553c1",
-          "sha256": "70eaa693d27bc9d2635221c3ad067f73bc302eb7bbeb1d3ef0f5f2e3b4ad3a90",
-          "sha1": "555baec832c879683330fc55ec45513c401f1b80",
-          "md5": "49ea14612670dba8c10fe9e19c72b9b3"
+          "name": "super_apple-2.0.10-1.19.4-rc2.jar",
+          "url": "super_apple-2.0.10-1.19.4-rc2.jar",
+          "size": 96978,
+          "sha512": "c8dea91ab09845423511df37f0c8a4edc3ec9be5795acbf5d6cad78ae59e6617a23f52dbc7ed91bd5362242b854b3795616dee748493aadc8a3152c560a7de7f",
+          "sha256": "f7f604547fb80012853b366602f26bd6a549b37aed38b997d9018263826b4fe5",
+          "sha1": "1dccfc0083cecdb70643609e1a71489fe833ba03",
+          "md5": "791f1e58376de98060756afbadb6d62b"
         }
       ]
     },
@@ -82,13 +82,13 @@
       },
       "files": [
         {
-          "name": "Super_Apple-2.0.9-1.19.4-pre4-sources.jar",
-          "url": "Super_Apple-2.0.9-1.19.4-pre4-sources.jar",
-          "size": 83153,
-          "sha512": "a19b4e76cc50d08778feaace92544f792f69e4565bbb5fc74400b642d86e9099b93631ec58693e67011dc7b2ce75f0c58c115fad66fedbe7a79dd660f552f098",
-          "sha256": "8f633a99823871078a6cff4c8e4a79a21869be60b31025bd82484e5aa4468b45",
-          "sha1": "f3d6e240539e9a86b3d4ec9f49b7067ceb6ff1c0",
-          "md5": "753e59983386d4dded6f7b913bf8a5eb"
+          "name": "super_apple-2.0.10-1.19.4-rc2-sources.jar",
+          "url": "super_apple-2.0.10-1.19.4-rc2-sources.jar",
+          "size": 83157,
+          "sha512": "eabfe083676c1f882449a6f6418d5cc79364446c08b6ebb228e13cc0f7571ccd126f8e9c62654d840fcf265f36a4961b8b4949527dd42547550dc601740c2a56",
+          "sha256": "040fc8518c72a67a017569674714f83c6620de2ea0111b9972ef881d37cf1189",
+          "sha1": "8a2e55ca9adaae3ef9a065b524450c5d17a2bdf7",
+          "md5": "0310f92af922a0cff87ec1e759d9e8dd"
         }
       ]
     }

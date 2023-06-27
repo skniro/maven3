@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.skniro</groupId>
+  <artifactId>maple</artifactId>
+  <version>1.19.2-0.0.3-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20230617.055713</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20230617055713</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>module</extension>
+        <value>1.19.2-0.0.3-20230617.055713-1</value>
+        <updated>20230617055713</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>1.19.2-0.0.3-20230617.055713-1</value>
+        <updated>20230617055713</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.19.2-0.0.3-20230617.055713-1</value>
+        <updated>20230617055713</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.19.2-0.0.3-20230617.055713-1</value>
+        <updated>20230617055713</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

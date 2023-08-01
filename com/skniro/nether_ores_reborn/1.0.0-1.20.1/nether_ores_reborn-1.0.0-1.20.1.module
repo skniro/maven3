@@ -1,0 +1,96 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.skniro",
+    "module": "nether_ores_reborn",
+    "version": "1.0.0-1.20.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.2.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "nether_ores_reborn-1.0.0-1.20.1.jar",
+          "url": "nether_ores_reborn-1.0.0-1.20.1.jar",
+          "size": 68976,
+          "sha512": "67c6f5e1f9cf2878c34b5fa50245d5ece4b5f49bedee840a5be254333a9d86c0e9557f0fe196fe54c6b1614b26292de6cd296949b0ed9a7dffcc8db6dc2d3c6d",
+          "sha256": "23099ba04b339d82225e857c5819eb2256d9c87f1ae397050f5c062f1fd099d6",
+          "sha1": "c36e95e3b4d72a412f60cd64f4ba6ec33f9c35ea",
+          "md5": "e65a3159b0485852999b3db4209201e0"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "net.fabricmc",
+          "module": "fabric-loader",
+          "version": {
+            "requires": "0.14.21"
+          }
+        },
+        {
+          "group": "net.fabricmc.fabric-api",
+          "module": "fabric-api",
+          "version": {
+            "requires": "0.86.0+1.20.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "nether_ores_reborn-1.0.0-1.20.1.jar",
+          "url": "nether_ores_reborn-1.0.0-1.20.1.jar",
+          "size": 68976,
+          "sha512": "67c6f5e1f9cf2878c34b5fa50245d5ece4b5f49bedee840a5be254333a9d86c0e9557f0fe196fe54c6b1614b26292de6cd296949b0ed9a7dffcc8db6dc2d3c6d",
+          "sha256": "23099ba04b339d82225e857c5819eb2256d9c87f1ae397050f5c062f1fd099d6",
+          "sha1": "c36e95e3b4d72a412f60cd64f4ba6ec33f9c35ea",
+          "md5": "e65a3159b0485852999b3db4209201e0"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "nether_ores_reborn-1.0.0-1.20.1-sources.jar",
+          "url": "nether_ores_reborn-1.0.0-1.20.1-sources.jar",
+          "size": 65753,
+          "sha512": "ccd61d1e95e9a9b7867a810a448a096f99eaf955b83710f5ebccc07d42af3c1c61357429db55b5c8c0ce05187a12da0be6e20605df80a199f57fbac0f3614708",
+          "sha256": "88c56f1494561963c39f02abb4630125e6a39b797dd1d52f5a780d26101c9c7e",
+          "sha1": "dcabdfd0224f11896683a1475b86ebcd076f48f2",
+          "md5": "76aee239f1be8549c8cf48c262e52f49"
+        }
+      ]
+    }
+  ]
+}

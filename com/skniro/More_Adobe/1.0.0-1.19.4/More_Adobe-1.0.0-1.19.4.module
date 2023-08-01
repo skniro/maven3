@@ -1,0 +1,96 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.skniro",
+    "module": "More_Adobe",
+    "version": "1.0.0-1.19.4",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "More_Adobe-1.0.0-1.19.4.jar",
+          "url": "More_Adobe-1.0.0-1.19.4.jar",
+          "size": 81544,
+          "sha512": "bedc625576fc8d7f68104f6dc4c1d61711ff08046cdbc27692d6d741d50e9a544da31635ff37c7bd3f09a658a62525593c52ff423d234641f1ddb494dc756285",
+          "sha256": "0eb1912276da1076d762e41222d992f2ced42da8ffa8ad93e6033b74dbb9989d",
+          "sha1": "2fe9821d5e05f1aec96b8f4f0aace3820faec41b",
+          "md5": "c0e712b10e2de8108f78490921d093f5"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "net.fabricmc",
+          "module": "fabric-loader",
+          "version": {
+            "requires": "0.14.21"
+          }
+        },
+        {
+          "group": "net.fabricmc.fabric-api",
+          "module": "fabric-api",
+          "version": {
+            "requires": "0.85.0+1.19.4"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "More_Adobe-1.0.0-1.19.4.jar",
+          "url": "More_Adobe-1.0.0-1.19.4.jar",
+          "size": 81544,
+          "sha512": "bedc625576fc8d7f68104f6dc4c1d61711ff08046cdbc27692d6d741d50e9a544da31635ff37c7bd3f09a658a62525593c52ff423d234641f1ddb494dc756285",
+          "sha256": "0eb1912276da1076d762e41222d992f2ced42da8ffa8ad93e6033b74dbb9989d",
+          "sha1": "2fe9821d5e05f1aec96b8f4f0aace3820faec41b",
+          "md5": "c0e712b10e2de8108f78490921d093f5"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "More_Adobe-1.0.0-1.19.4-sources.jar",
+          "url": "More_Adobe-1.0.0-1.19.4-sources.jar",
+          "size": 76109,
+          "sha512": "c6b63a6cdf19bed139c6f72c70c586f14e1e56bd53996413d245c4f2f61c38b55882f5e9590b88090b507f54bd57903d5301aa9fe9ece0d33bdad571c82ddb2b",
+          "sha256": "a5c3c05774ae5a87de44ba7c2e710caf174a787f5b775b13c350718ac5ce39aa",
+          "sha1": "0e60b77cf5886e5b3863ba6a5a8c6f2b9d8ea385",
+          "md5": "de94e8741506a1868c2456b064db036a"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.skniro",
+    "module": "super_apple",
+    "version": "1.9.0-1.15.2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "super_apple-1.9.0-1.15.2.jar",
+          "url": "super_apple-1.9.0-1.15.2.jar",
+          "size": 90830,
+          "sha512": "54f49209808edc7298491d16baa71c9398dc6916b83e8eacff580c70af9709759e61384ac7cf70ce0bc2b7457a6f326590156141bf6705a2b622daf022e5183f",
+          "sha256": "ccd9754d9f2864f834b4b05746e56d0bab6253e453b576c1632e784e18d776d6",
+          "sha1": "dc3da7169fb1a9aa3caa4f79b0181a6fc54a1359",
+          "md5": "fdf2021ec289175860daa1740ea31b34"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "net.fabricmc",
+          "module": "fabric-loader",
+          "version": {
+            "requires": "0.14.13"
+          }
+        },
+        {
+          "group": "net.fabricmc.fabric-api",
+          "module": "fabric-api",
+          "version": {
+            "requires": "0.28.5+1.15"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "super_apple-1.9.0-1.15.2.jar",
+          "url": "super_apple-1.9.0-1.15.2.jar",
+          "size": 90830,
+          "sha512": "54f49209808edc7298491d16baa71c9398dc6916b83e8eacff580c70af9709759e61384ac7cf70ce0bc2b7457a6f326590156141bf6705a2b622daf022e5183f",
+          "sha256": "ccd9754d9f2864f834b4b05746e56d0bab6253e453b576c1632e784e18d776d6",
+          "sha1": "dc3da7169fb1a9aa3caa4f79b0181a6fc54a1359",
+          "md5": "fdf2021ec289175860daa1740ea31b34"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "super_apple-1.9.0-1.15.2-sources.jar",
+          "url": "super_apple-1.9.0-1.15.2-sources.jar",
+          "size": 78326,
+          "sha512": "fbcc18a02b7f2366f730dccd2f9fe1856af671e9d0fc87fc35d4bc41d652eb5fd18d8a3f8e681b02105184da50dd986522d3b85d68e6cfd9d306f528e7491ec4",
+          "sha256": "59140d8fc725af9b313e47453685635ebefa95008fca57a6bdf7bd07581be3ad",
+          "sha1": "91fc231fbefbcd07f13b3b20618521ff5aa22e81",
+          "md5": "6a1958d4076ca9e06e5e2ba7d803a146"
+        }
+      ]
+    }
+  ]
+}

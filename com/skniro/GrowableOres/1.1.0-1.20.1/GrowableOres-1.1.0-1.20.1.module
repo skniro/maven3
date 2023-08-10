@@ -1,0 +1,152 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.skniro",
+    "module": "GrowableOres",
+    "version": "1.1.0-1.20.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "teamreborn",
+          "module": "energy",
+          "version": {
+            "requires": "3.0.0"
+          },
+          "excludes": [
+            {
+              "group": "net.fabricmc.fabric-api",
+              "module": "*"
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "name": "GrowableOres-1.1.0-1.20.1.jar",
+          "url": "GrowableOres-1.1.0-1.20.1.jar",
+          "size": 184980,
+          "sha512": "c1d1408cf1172f9db645d819c20815888c58f9dfbfb64fa7545d1d9d335d54d7dba4de04aa9749f11a221f5cb59781d0207ae1b354dd92a0b6901765ee98244c",
+          "sha256": "6ba08879c457f3192c25646f65d822e28470355f9c9c2c25d86d40cf92342ded",
+          "sha1": "d4b37a62d51a169e52bb4122b16bfedded7f8633",
+          "md5": "05a7624e39449b01594bcc43788cc825"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "teamreborn",
+          "module": "energy",
+          "version": {
+            "requires": "3.0.0"
+          },
+          "excludes": [
+            {
+              "group": "net.fabricmc.fabric-api",
+              "module": "*"
+            }
+          ]
+        },
+        {
+          "group": "net.fabricmc",
+          "module": "fabric-loader",
+          "version": {
+            "requires": "0.14.21"
+          }
+        },
+        {
+          "group": "net.fabricmc.fabric-api",
+          "module": "fabric-api",
+          "version": {
+            "requires": "0.85.0+1.20.1"
+          }
+        },
+        {
+          "group": "curse.maven",
+          "module": "reborncore-237903",
+          "version": {
+            "requires": "4582416"
+          }
+        },
+        {
+          "group": "curse.maven",
+          "module": "techreborn-233564",
+          "version": {
+            "requires": "4582415"
+          }
+        },
+        {
+          "group": "curse.maven",
+          "module": "betterend-413596",
+          "version": {
+            "requires": "4658906"
+          }
+        },
+        {
+          "group": "com.github.quiqueck",
+          "module": "BCLib",
+          "version": {
+            "requires": "3.0.12"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "GrowableOres-1.1.0-1.20.1.jar",
+          "url": "GrowableOres-1.1.0-1.20.1.jar",
+          "size": 184980,
+          "sha512": "c1d1408cf1172f9db645d819c20815888c58f9dfbfb64fa7545d1d9d335d54d7dba4de04aa9749f11a221f5cb59781d0207ae1b354dd92a0b6901765ee98244c",
+          "sha256": "6ba08879c457f3192c25646f65d822e28470355f9c9c2c25d86d40cf92342ded",
+          "sha1": "d4b37a62d51a169e52bb4122b16bfedded7f8633",
+          "md5": "05a7624e39449b01594bcc43788cc825"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "GrowableOres-1.1.0-1.20.1-sources.jar",
+          "url": "GrowableOres-1.1.0-1.20.1-sources.jar",
+          "size": 154378,
+          "sha512": "108d5cca5e92e27f882b29c0042054369eb79101ee2cce4c90fcfd14125de4638b53d1a30d04312523ba06584d57c657bb01ae1560fcfbfe9ca7c3603abaedda",
+          "sha256": "a9ba5a2d471eb3f56d862f13d53347f3066851651f58489c30ea8cf9638aaee6",
+          "sha1": "b63a0c223585dcbb98542609f5a00a670e3cf18b",
+          "md5": "839aaf61794f166a7e772aa87e52f9a1"
+        }
+      ]
+    }
+  ]
+}

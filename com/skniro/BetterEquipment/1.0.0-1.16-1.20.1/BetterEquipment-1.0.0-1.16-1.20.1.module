@@ -1,0 +1,96 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.skniro",
+    "module": "BetterEquipment",
+    "version": "1.0.0-1.16-1.20.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "BetterEquipment-1.0.0-1.16-1.20.1.jar",
+          "url": "BetterEquipment-1.0.0-1.16-1.20.1.jar",
+          "size": 16346,
+          "sha512": "8d9f2adf00f2f43634b91ded8a24761dba7079eb0b2c5ba4451cf3430b210b3ce5fa842a1df4f0ac02173419543e5c4886ba4f986fd8ead6aa6d2aafd2149c24",
+          "sha256": "5701c88500b9423a2648a501b0a7f09ab2f5256347d34cfdf5bc291671be39b5",
+          "sha1": "0759bf50cd8f894a7c589070ab5038cb52393293",
+          "md5": "c5a501881ce2f5cb3e6df854ca66bd7f"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "net.fabricmc",
+          "module": "fabric-loader",
+          "version": {
+            "requires": "0.14.21"
+          }
+        },
+        {
+          "group": "net.fabricmc.fabric-api",
+          "module": "fabric-api",
+          "version": {
+            "requires": "0.86.1+1.20.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "BetterEquipment-1.0.0-1.16-1.20.1.jar",
+          "url": "BetterEquipment-1.0.0-1.16-1.20.1.jar",
+          "size": 16346,
+          "sha512": "8d9f2adf00f2f43634b91ded8a24761dba7079eb0b2c5ba4451cf3430b210b3ce5fa842a1df4f0ac02173419543e5c4886ba4f986fd8ead6aa6d2aafd2149c24",
+          "sha256": "5701c88500b9423a2648a501b0a7f09ab2f5256347d34cfdf5bc291671be39b5",
+          "sha1": "0759bf50cd8f894a7c589070ab5038cb52393293",
+          "md5": "c5a501881ce2f5cb3e6df854ca66bd7f"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "BetterEquipment-1.0.0-1.16-1.20.1-sources.jar",
+          "url": "BetterEquipment-1.0.0-1.16-1.20.1-sources.jar",
+          "size": 15421,
+          "sha512": "ee471a4ac054840c598a535730e0b6380e8886632220383c461bdd86dbe0e1a7a6f3241547d92c4d8dd34707dee86755de1eaf9490f1547b034743ed62887b8c",
+          "sha256": "8e50755e847432e8ad9fb72a380d3d65aa6ef7afa987bfdab0187245c47d0394",
+          "sha1": "b13b9d8d0cbab48280270c0aee311d26a350703e",
+          "md5": "6dce591f9458981e87266ef49509b9b5"
+        }
+      ]
+    }
+  ]
+}

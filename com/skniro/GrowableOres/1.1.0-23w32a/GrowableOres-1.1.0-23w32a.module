@@ -1,0 +1,96 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.skniro",
+    "module": "GrowableOres",
+    "version": "1.1.0-23w32a",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "GrowableOres-1.1.0-23w32a.jar",
+          "url": "GrowableOres-1.1.0-23w32a.jar",
+          "size": 165771,
+          "sha512": "bd997ce13214f83f14695c98c081c5e868d807b2b79257c2a48f61021bd8144ce347f65c4c97e677d4bd8f9d1f42c0f143e0a17c834f65ff20f72dde22cea85e",
+          "sha256": "ea38266ff2d5a02c9737ee295d36880b58332581477445714ff3332060db9d9e",
+          "sha1": "5365d0f2613c45e46c7b5a73076d25474a393054",
+          "md5": "a0229e75a251e00ead69ee4c18c98ce6"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "net.fabricmc",
+          "module": "fabric-loader",
+          "version": {
+            "requires": "0.14.22"
+          }
+        },
+        {
+          "group": "net.fabricmc.fabric-api",
+          "module": "fabric-api",
+          "version": {
+            "requires": "0.86.2+1.20.2"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "GrowableOres-1.1.0-23w32a.jar",
+          "url": "GrowableOres-1.1.0-23w32a.jar",
+          "size": 165771,
+          "sha512": "bd997ce13214f83f14695c98c081c5e868d807b2b79257c2a48f61021bd8144ce347f65c4c97e677d4bd8f9d1f42c0f143e0a17c834f65ff20f72dde22cea85e",
+          "sha256": "ea38266ff2d5a02c9737ee295d36880b58332581477445714ff3332060db9d9e",
+          "sha1": "5365d0f2613c45e46c7b5a73076d25474a393054",
+          "md5": "a0229e75a251e00ead69ee4c18c98ce6"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "GrowableOres-1.1.0-23w32a-sources.jar",
+          "url": "GrowableOres-1.1.0-23w32a-sources.jar",
+          "size": 156518,
+          "sha512": "2dab5e2b243be9afcb2acbb72b3fb637adb02a554b966be3bc10e69b1d13468e523889487081c1e772eb465ec586e20d6099f6613163f76beed7cbcb8ed13db6",
+          "sha256": "c2170bd85494adcca5d6a9d9d511a94d7dc8280812a723562bf926fbf8495baf",
+          "sha1": "273bed9738e1b64f32bb351753075a381e5f84cc",
+          "md5": "b73232fff4aca2d71b9819bb662fe995"
+        }
+      ]
+    }
+  ]
+}

@@ -3,11 +3,22 @@
   <groupId>com.skniro</groupId>
   <artifactId>More_Adobe</artifactId>
   <versioning>
-    <latest>1.0.0-1.19.4</latest>
-    <release>1.0.0-1.19.4</release>
+    <latest>1.0.0-1.18.2-Forge</latest>
+    <release>1.0.0-1.18.2-Forge</release>
     <versions>
       <version>1.0.0-1.19.4</version>
+      <version>1.0.0-1.19.2-Fabric</version>
+      <version>1.0.0-1.20.1-Fabric</version>
+      <version>1.0.0-1.14.4-Fabric</version>
+      <version>1.0.0-1.20.1-Forge</version>
+      <version>1.0.0-1.15.2-Fabric</version>
+      <version>1.0.0-1.16.5-Fabric</version>
+      <version>1.0.0-1.18.2-Fabric</version>
+      <version>1.0.0-1.17.1-Fabric</version>
+      <version>1.0.0-1.19.4-Forge</version>
+      <version>1.0.0-1.19.2-Forge</version>
+      <version>1.0.0-1.18.2-Forge</version>
     </versions>
-    <lastUpdated>20230726081202</lastUpdated>
+    <lastUpdated>20230811074843</lastUpdated>
   </versioning>
 </metadata>

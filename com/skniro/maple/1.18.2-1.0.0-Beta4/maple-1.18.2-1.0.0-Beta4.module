@@ -1,0 +1,103 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.skniro",
+    "module": "maple",
+    "version": "1.18.2-1.0.0-Beta4",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "maple-1.18.2-1.0.0-Beta4.jar",
+          "url": "maple-1.18.2-1.0.0-Beta4.jar",
+          "size": 576388,
+          "sha512": "50dea58f488d31285df950eeb1d6bbbea86d11e0dde33d0d33779ded1252bb847303d8bbea8a77dec531be8ea4e7deecc4b75ce1a91bb7a80d474ba3e00862ae",
+          "sha256": "04307e35ff147b62a64e7653c1b965697e34e2bb48eb4bbdfeea21eacbe62b74",
+          "sha1": "df287f861e6c502d33bcf340eca4ef8d90e52b59",
+          "md5": "3d88a05a731dced5dab0b34f9275273a"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "net.fabricmc",
+          "module": "fabric-loader",
+          "version": {
+            "requires": "0.14.22"
+          }
+        },
+        {
+          "group": "net.fabricmc.fabric-api",
+          "module": "fabric-api",
+          "version": {
+            "requires": "0.76.0+1.18.2"
+          }
+        },
+        {
+          "group": "com.github.glitchfiend",
+          "module": "TerraBlender-fabric",
+          "version": {
+            "requires": "1.18.2-1.2.0.126"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "maple-1.18.2-1.0.0-Beta4.jar",
+          "url": "maple-1.18.2-1.0.0-Beta4.jar",
+          "size": 576388,
+          "sha512": "50dea58f488d31285df950eeb1d6bbbea86d11e0dde33d0d33779ded1252bb847303d8bbea8a77dec531be8ea4e7deecc4b75ce1a91bb7a80d474ba3e00862ae",
+          "sha256": "04307e35ff147b62a64e7653c1b965697e34e2bb48eb4bbdfeea21eacbe62b74",
+          "sha1": "df287f861e6c502d33bcf340eca4ef8d90e52b59",
+          "md5": "3d88a05a731dced5dab0b34f9275273a"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "maple-1.18.2-1.0.0-Beta4-sources.jar",
+          "url": "maple-1.18.2-1.0.0-Beta4-sources.jar",
+          "size": 548967,
+          "sha512": "21718a01bbec64437037749d5295e475198a77603203a44915cb7f5cd53073098cbabd43c3f32b2c261e9a810f702784de767df3b7e8829e7d4cc1a1f066413f",
+          "sha256": "6cdd1323179623c936571d07e6d24ccc57ee9484409b2932e8924156f2783775",
+          "sha1": "3d2d7597ec058211bb1dac62e73444b9eb2ac1fe",
+          "md5": "6a6ce2925610a25f7726511f69df20ac"
+        }
+      ]
+    }
+  ]
+}

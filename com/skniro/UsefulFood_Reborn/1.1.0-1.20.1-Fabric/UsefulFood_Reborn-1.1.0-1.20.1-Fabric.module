@@ -1,0 +1,96 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.skniro",
+    "module": "UsefulFood_Reborn",
+    "version": "1.1.0-1.20.1-Fabric",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "UsefulFood_Reborn-1.1.0-1.20.1-Fabric.jar",
+          "url": "UsefulFood_Reborn-1.1.0-1.20.1-Fabric.jar",
+          "size": 291466,
+          "sha512": "5f28e5d4e186596a422776fb96807572f9e9cb38ff593d73303c3cdabc6177adb5c89064c40aeb79d0a9d8d9cd7ca9347a14078627c1dca202ecf12dab6b10a2",
+          "sha256": "9df19cef9ae34f5212899fbd6db4f1e3bbfaa8271e603e95be4222507ef83a5a",
+          "sha1": "005a48cd90a266e829c9e9396da20435b8ef019d",
+          "md5": "58ccb03aa914b821bbbe863b639b7ece"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "net.fabricmc",
+          "module": "fabric-loader",
+          "version": {
+            "requires": "0.14.22"
+          }
+        },
+        {
+          "group": "net.fabricmc.fabric-api",
+          "module": "fabric-api",
+          "version": {
+            "requires": "0.86.1+1.20.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "UsefulFood_Reborn-1.1.0-1.20.1-Fabric.jar",
+          "url": "UsefulFood_Reborn-1.1.0-1.20.1-Fabric.jar",
+          "size": 291466,
+          "sha512": "5f28e5d4e186596a422776fb96807572f9e9cb38ff593d73303c3cdabc6177adb5c89064c40aeb79d0a9d8d9cd7ca9347a14078627c1dca202ecf12dab6b10a2",
+          "sha256": "9df19cef9ae34f5212899fbd6db4f1e3bbfaa8271e603e95be4222507ef83a5a",
+          "sha1": "005a48cd90a266e829c9e9396da20435b8ef019d",
+          "md5": "58ccb03aa914b821bbbe863b639b7ece"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "UsefulFood_Reborn-1.1.0-1.20.1-Fabric-sources.jar",
+          "url": "UsefulFood_Reborn-1.1.0-1.20.1-Fabric-sources.jar",
+          "size": 293472,
+          "sha512": "481fab47fe1c863da4d688cee84e11f7cb0040e52054b606db29080df21ad3206f0b59593751759024eb7d250687a3118e40960718ff1fd1ebe94cf282a55657",
+          "sha256": "ef18449bfdcadd66ca097b22c97c2e64dfa1fd39f23379f7ee489989d9881ab8",
+          "sha1": "8ceeafa49f89e76cd6ce37e4807024c640f88f3b",
+          "md5": "196edd1a878fc0a49f0de12faa931939"
+        }
+      ]
+    }
+  ]
+}

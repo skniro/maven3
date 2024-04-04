@@ -1,0 +1,96 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.skniro",
+    "module": "sknirolib",
+    "version": "1.0.0-1.20.1-Fabric",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "sknirolib-1.0.0-1.20.1-Fabric.jar",
+          "url": "sknirolib-1.0.0-1.20.1-Fabric.jar",
+          "size": 35886,
+          "sha512": "ece01bc8193e12427c6af1f6dff382d3a71674893b403ce8b6fb5384de14508599f6639cd008ba9845ddad5a9a90e0fdee2f9a812766a46cae183508b6de4388",
+          "sha256": "c1a27b1c9c9a18d031b07a93ac3fac6e9ab7754a928fbacdecebf98ad761bc12",
+          "sha1": "819481657dc52e9dba798960f4e993af0f002803",
+          "md5": "3f20dee4594de29dee04d95092c354e4"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "net.fabricmc",
+          "module": "fabric-loader",
+          "version": {
+            "requires": "0.15.3"
+          }
+        },
+        {
+          "group": "net.fabricmc.fabric-api",
+          "module": "fabric-api",
+          "version": {
+            "requires": "0.86.0+1.20.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "sknirolib-1.0.0-1.20.1-Fabric.jar",
+          "url": "sknirolib-1.0.0-1.20.1-Fabric.jar",
+          "size": 35886,
+          "sha512": "ece01bc8193e12427c6af1f6dff382d3a71674893b403ce8b6fb5384de14508599f6639cd008ba9845ddad5a9a90e0fdee2f9a812766a46cae183508b6de4388",
+          "sha256": "c1a27b1c9c9a18d031b07a93ac3fac6e9ab7754a928fbacdecebf98ad761bc12",
+          "sha1": "819481657dc52e9dba798960f4e993af0f002803",
+          "md5": "3f20dee4594de29dee04d95092c354e4"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "sknirolib-1.0.0-1.20.1-Fabric-sources.jar",
+          "url": "sknirolib-1.0.0-1.20.1-Fabric-sources.jar",
+          "size": 24406,
+          "sha512": "1def657a2362e253d450e99e6290a7777797746d9bcaad1cb03276385b0994e22a0da19c2614c261136dc6f51a6646aada166bd801f6df61d0bd7a3ec46958a1",
+          "sha256": "25038841b8082a17e0caf30967c8a5242de80fe8aaefecdfa97fb8198593c6a9",
+          "sha1": "051a1adf91c28ce5e18429294dc3b57f8ca5b10d",
+          "md5": "0dcea53c03657eaa4dbfb2b7b374e849"
+        }
+      ]
+    }
+  ]
+}

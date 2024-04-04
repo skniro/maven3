@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.skniro</groupId>
+  <artifactId>Better_Snowball</artifactId>
+  <versioning>
+    <latest>1.20.4-1.0.2-Fabric</latest>
+    <release>1.20.4-1.0.2-Fabric</release>
+    <versions>
+      <version>1.20.1-1.0.0-Fabric</version>
+      <version>1.20.1-1.0.0-Forge</version>
+      <version>1.20.2-1.0.1-Forge</version>
+      <version>1.20.2-1.0.1-Fabric</version>
+      <version>1.20.4-1.0.1-Forge</version>
+      <version>1.20.4-1.0.1-Fabric</version>
+      <version>1.20.4-1.0.2-Fabric</version>
+      <version>1.20.1-1.0.2-Forge</version>
+      <version>1.20.1-1.0.2-Fabric</version>
+      <version>1.20.4-1.0.2-Forge</version>
+    </versions>
+    <lastUpdated>20240210044021</lastUpdated>
+  </versioning>
+</metadata>

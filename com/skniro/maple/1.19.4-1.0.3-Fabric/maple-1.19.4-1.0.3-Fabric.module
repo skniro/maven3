@@ -1,0 +1,103 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.skniro",
+    "module": "maple",
+    "version": "1.19.4-1.0.3-Fabric",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "maple-1.19.4-1.0.3-Fabric.jar",
+          "url": "maple-1.19.4-1.0.3-Fabric.jar",
+          "size": 624004,
+          "sha512": "7f071390b04f794c3a621347cefff0657c1f862b5bcd97b8d6b4a89d84b2726dd90ab18c475de054822dad4451a0708a7d567ff51d8514d4f16db16dc459aaa5",
+          "sha256": "bd1c6968acec76fac506f8ff40ee0290ca4ff6b6c5d5cafade93c1080559dc98",
+          "sha1": "b0eafe788c8eb40ceb86bffb584ad83a006825a4",
+          "md5": "ea663f3c522b51d9f33bef37036de28d"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "net.fabricmc",
+          "module": "fabric-loader",
+          "version": {
+            "requires": "0.14.21"
+          }
+        },
+        {
+          "group": "net.fabricmc.fabric-api",
+          "module": "fabric-api",
+          "version": {
+            "requires": "0.87.2+1.19.4"
+          }
+        },
+        {
+          "group": "com.github.glitchfiend",
+          "module": "TerraBlender-fabric",
+          "version": {
+            "requires": "1.19.4-2.2.0.161"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "maple-1.19.4-1.0.3-Fabric.jar",
+          "url": "maple-1.19.4-1.0.3-Fabric.jar",
+          "size": 624004,
+          "sha512": "7f071390b04f794c3a621347cefff0657c1f862b5bcd97b8d6b4a89d84b2726dd90ab18c475de054822dad4451a0708a7d567ff51d8514d4f16db16dc459aaa5",
+          "sha256": "bd1c6968acec76fac506f8ff40ee0290ca4ff6b6c5d5cafade93c1080559dc98",
+          "sha1": "b0eafe788c8eb40ceb86bffb584ad83a006825a4",
+          "md5": "ea663f3c522b51d9f33bef37036de28d"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "maple-1.19.4-1.0.3-Fabric-sources.jar",
+          "url": "maple-1.19.4-1.0.3-Fabric-sources.jar",
+          "size": 579734,
+          "sha512": "1ba2e9d98b827f51e1071d77ef1380d704e487d4f211887706adadf7847840721893b6e493559d6934edc647d901ae9ac913f7d7cdd0d86a0dac43f944448607",
+          "sha256": "b829a6f6e76fbbe9f5c2ba7c36e07db885e82be0ebdad9d70fda1b326c76a73d",
+          "sha1": "8e24da5a48f5752d27192a4b0813587ef065e403",
+          "md5": "7549670743245fff0bfe30858055904b"
+        }
+      ]
+    }
+  ]
+}

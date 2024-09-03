@@ -3,8 +3,8 @@
   <groupId>com.skniro</groupId>
   <artifactId>UsefulFood_Reborn</artifactId>
   <versioning>
-    <latest>1.1.1-1.20.4-Forge</latest>
-    <release>1.1.1-1.20.4-Forge</release>
+    <latest>1.2.4-1.20.1-Fabric</latest>
+    <release>1.2.4-1.20.1-Fabric</release>
     <versions>
       <version>1.0.0-1.19.2-Fabric</version>
       <version>0.0.0-1.19.2-noForge</version>
@@ -29,7 +29,49 @@
       <version>1.1.1-1.20.2-Forge</version>
       <version>1.1.1-1.20.4-Fabric</version>
       <version>1.1.1-1.20.4-Forge</version>
+      <version>1.2.0-1.20.4-Fabric</version>
+      <version>1.2.0-1.20.4-Forge</version>
+      <version>1.2.0-1.20.1-Forge</version>
+      <version>1.2.0-1.20.1-Fabric</version>
+      <version>1.2.0-1.19.2-Forge</version>
+      <version>1.2.0-1.19.2-Fabric</version>
+      <version>1.2.1-1.20.4-Forge</version>
+      <version>1.2.0-1.16.5-Forge</version>
+      <version>1.2.0-1.16.5-Fabric</version>
+      <version>1.2.0-1.18.2-Fabric</version>
+      <version>1.2.0-1.18.2-Forge</version>
+      <version>1.2.0-1.21-Forge</version>
+      <version>1.2.0-1.21-Neoforge</version>
+      <version>1.2.0-1.21-Fabric</version>
+      <version>1.2.1-1.21-Forge</version>
+      <version>1.2.1-1.21-Fabric</version>
+      <version>1.2.2-1.21-Forge</version>
+      <version>1.2.2-1.21-Fabric</version>
+      <version>1.2.3-1.21-Forge</version>
+      <version>1.2.3-1.21-Neoforge</version>
+      <version>1.2.3-1.21-Fabric</version>
+      <version>1.2.3-1.20.1-Forge</version>
+      <version>1.2.3-1.20.1-Fabric</version>
+      <version>1.2.3-1.20.4-Forge</version>
+      <version>1.2.3-1.20.4-Fabric</version>
+      <version>1.2.3-1.19.2-Forge</version>
+      <version>1.2.3-1.19.2-Fabric</version>
+      <version>1.2.3-1.18.2-Fabric</version>
+      <version>1.2.3-1.16.5-Fabric</version>
+      <version>1.2.4-1.21.1-Forge</version>
+      <version>1.2.4-1.21.1-Fabric</version>
+      <version>1.2.4-1.21.1-Neoforge</version>
+      <version>1.2.4-1.16.5-Fabric</version>
+      <version>1.2.4-1.16.5-Forge</version>
+      <version>1.2.4-1.18.2-Fabric</version>
+      <version>1.2.4-1.18.2-Forge</version>
+      <version>1.2.4-1.20.4-Forge</version>
+      <version>1.2.4-1.20.4-Fabric</version>
+      <version>1.2.4-1.19.2-Fabric</version>
+      <version>1.2.4-1.19.2-Forge</version>
+      <version>1.2.4-1.20.1-Forge</version>
+      <version>1.2.4-1.20.1-Fabric</version>
     </versions>
-    <lastUpdated>20240207051206</lastUpdated>
+    <lastUpdated>20240817112453</lastUpdated>
   </versioning>
 </metadata>

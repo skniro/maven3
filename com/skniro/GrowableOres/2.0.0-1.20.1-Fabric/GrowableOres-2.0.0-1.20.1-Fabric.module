@@ -1,0 +1,138 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.skniro",
+    "module": "GrowableOres",
+    "version": "2.0.0-1.20.1-Fabric",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "teamreborn",
+          "module": "energy",
+          "version": {
+            "requires": "3.0.0"
+          },
+          "excludes": [
+            {
+              "group": "net.fabricmc.fabric-api",
+              "module": "*"
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "name": "GrowableOres-2.0.0-1.20.1-Fabric.jar",
+          "url": "GrowableOres-2.0.0-1.20.1-Fabric.jar",
+          "size": 354331,
+          "sha512": "0d2b8c94e505a13a61dbbc49dcb92033bec7e0f838fcc805696f4f1f88e1eabbc4c34eca7076b3673c285f723f95f46124f954ed1d2b0a3ae83e00290bba594f",
+          "sha256": "77c4b96cc5b50f1c99d043420ebf3baf6041fcbb3a68b3350db5ccdb863f36fb",
+          "sha1": "d4eda8902fa60db73e1d1eed710cc967630fc2f2",
+          "md5": "afc110935803fcf4f0a8897a1758d86e"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "teamreborn",
+          "module": "energy",
+          "version": {
+            "requires": "3.0.0"
+          },
+          "excludes": [
+            {
+              "group": "net.fabricmc.fabric-api",
+              "module": "*"
+            }
+          ]
+        },
+        {
+          "group": "net.fabricmc",
+          "module": "fabric-loader",
+          "version": {
+            "requires": "0.14.21"
+          }
+        },
+        {
+          "group": "net.fabricmc.fabric-api",
+          "module": "fabric-api",
+          "version": {
+            "requires": "0.90.7+1.20.1"
+          }
+        },
+        {
+          "group": "curse.maven",
+          "module": "reborncore-237903",
+          "version": {
+            "requires": "4582416"
+          }
+        },
+        {
+          "group": "curse.maven",
+          "module": "techreborn-233564",
+          "version": {
+            "requires": "4582415"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "GrowableOres-2.0.0-1.20.1-Fabric.jar",
+          "url": "GrowableOres-2.0.0-1.20.1-Fabric.jar",
+          "size": 354331,
+          "sha512": "0d2b8c94e505a13a61dbbc49dcb92033bec7e0f838fcc805696f4f1f88e1eabbc4c34eca7076b3673c285f723f95f46124f954ed1d2b0a3ae83e00290bba594f",
+          "sha256": "77c4b96cc5b50f1c99d043420ebf3baf6041fcbb3a68b3350db5ccdb863f36fb",
+          "sha1": "d4eda8902fa60db73e1d1eed710cc967630fc2f2",
+          "md5": "afc110935803fcf4f0a8897a1758d86e"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "GrowableOres-2.0.0-1.20.1-Fabric-sources.jar",
+          "url": "GrowableOres-2.0.0-1.20.1-Fabric-sources.jar",
+          "size": 385355,
+          "sha512": "743a80a4e4bec7bf66f907a9f429f0364651029bf4c5daa3cb6fe254b9dd3fcde88c4d952915ba180a52d0cafbe710e52c4372d1fde098e3e9eb780258b8ba77",
+          "sha256": "5787b1b06bc5e6372babc53c29b3c28d5ef72fd2662cd3693d9ea207c74030d6",
+          "sha1": "42c68092c4228187a6158a3451685bac6964d10d",
+          "md5": "b37a363fa43c83a9161e82e30fd2c1f5"
+        }
+      ]
+    }
+  ]
+}

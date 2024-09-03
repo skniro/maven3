@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.skniro</groupId>
+  <artifactId>Usefulfood-Community</artifactId>
+  <versioning>
+    <latest>1.5.0-1.12.2-Forge</latest>
+    <release>1.5.0-1.12.2-Forge</release>
+    <versions>
+      <version>1.5.0-1.9.4-Forge</version>
+      <version>1.5.0-1.10.2-Forge</version>
+      <version>1.5.0-1.11.2-Forge</version>
+      <version>1.5.0-1.12.2-Forge</version>
+    </versions>
+    <lastUpdated>20240818073016</lastUpdated>
+  </versioning>
+</metadata>

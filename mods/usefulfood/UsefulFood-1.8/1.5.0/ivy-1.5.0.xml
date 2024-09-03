@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
+  <info organisation="mods.usefulfood" module="UsefulFood-1.8" revision="1.5.0" status="integration" publication="20240813211308"/>
+  <configurations>
+    <conf name="annotationProcessor" visibility="private"/>
+    <conf name="apiAnnotationProcessor" visibility="private"/>
+    <conf name="apiCompile" visibility="private" extends="compile"/>
+    <conf name="apiCompileClasspath" visibility="private" extends="apiCompileOnly,apiImplementation"/>
+    <conf name="apiCompileOnly" visibility="private"/>
+    <conf name="apiElements" visibility="private" extends="runtime"/>
+    <conf name="apiImplementation" visibility="private" extends="apiCompile"/>
+    <conf name="apiRuntime" visibility="private" extends="apiCompile"/>
+    <conf name="apiRuntimeClasspath" visibility="private" extends="apiImplementation,apiRuntime,apiRuntimeOnly"/>
+    <conf name="apiRuntimeOnly" visibility="private"/>
+    <conf name="archives" visibility="public"/>
+    <conf name="compile" visibility="private" extends="forgeGradleResolvedDeobfCompile"/>
+    <conf name="compileClasspath" visibility="private" extends="compileOnly,implementation"/>
+    <conf name="compileOnly" visibility="private"/>
+    <conf name="default" visibility="public" extends="runtimeElements"/>
+    <conf name="deobfCompile" visibility="public"/>
+    <conf name="deobfProvided" visibility="public"/>
+    <conf name="forgeGradleFfiDeps" visibility="public"/>
+    <conf name="forgeGradleGradleStart" visibility="public"/>
+    <conf name="forgeGradleMc" visibility="public"/>
+    <conf name="forgeGradleMcDeps" visibility="public" extends="forgeGradleMcDepsClient"/>
+    <conf name="forgeGradleMcDepsClient" visibility="public"/>
+    <conf name="forgeGradleMcNatives" visibility="public"/>
+    <conf name="forgeGradleMcpData" visibility="public"/>
+    <conf name="forgeGradleMcpMappings" visibility="public"/>
+    <conf name="forgeGradleResolvedDeobfCompile" visibility="public"/>
+    <conf name="forgeGradleResovledDeobfProvided" visibility="public"/>
+    <conf name="forgeGradleUserDevPackage" visibility="public"/>
+    <conf name="implementation" visibility="private" extends="compile"/>
+    <conf name="provided" visibility="public" extends="forgeGradleResovledDeobfProvided"/>
+    <conf name="runtime" visibility="private" extends="compile"/>
+    <conf name="runtimeClasspath" visibility="private" extends="implementation,runtime,runtimeOnly"/>
+    <conf name="runtimeElements" visibility="private" extends="implementation,runtime,runtimeOnly"/>
+    <conf name="runtimeOnly" visibility="private"/>
+    <conf name="testAnnotationProcessor" visibility="private"/>
+    <conf name="testCompile" visibility="private" extends="apiCompile,compile"/>
+    <conf name="testCompileClasspath" visibility="private" extends="testCompileOnly,testImplementation"/>
+    <conf name="testCompileOnly" visibility="private"/>
+    <conf name="testImplementation" visibility="private" extends="implementation,testCompile"/>
+    <conf name="testRuntime" visibility="private" extends="runtime,testCompile"/>
+    <conf name="testRuntimeClasspath" visibility="private" extends="testImplementation,testRuntime,testRuntimeOnly"/>
+    <conf name="testRuntimeOnly" visibility="private" extends="runtimeOnly"/>
+  </configurations>
+  <publications>
+    <artifact name="UsefulFood-1.8" type="jar" ext="jar" conf="apiElements,archives,runtime,runtimeElements"/>
+  </publications>
+  <dependencies>
+    <dependency org="net.minecraftforge" name="forgeSrc" rev="1.9.4-12.17.0.2317-1.9.4" conf="forgeGradleMc-&gt;default"/>
+    <dependency org="com.google.code.findbugs" name="jsr305" rev="3.0.1" conf="forgeGradleMcDeps-&gt;default"/>
+    <dependency org="com.mojang" name="netty" rev="1.8.8" conf="forgeGradleMcDeps-&gt;default"/>
+    <dependency org="oshi-project" name="oshi-core" rev="1.1" conf="forgeGradleMcDeps-&gt;default"/>
+    <dependency org="net.java.dev.jna" name="jna" rev="3.4.0" conf="forgeGradleMcDeps-&gt;default"/>
+    <dependency org="net.java.dev.jna" name="platform" rev="3.4.0" conf="forgeGradleMcDeps-&gt;default"/>
+    <dependency org="com.ibm.icu" name="icu4j-core-mojang" rev="51.2" conf="forgeGradleMcDeps-&gt;default"/>
+    <dependency org="net.sf.jopt-simple" name="jopt-simple" rev="4.6" conf="forgeGradleMcDeps-&gt;default"/>
+    <dependency org="io.netty" name="netty-all" rev="4.0.23.Final" conf="forgeGradleMcDeps-&gt;default"/>
+    <dependency org="com.google.guava" name="guava" rev="17.0" conf="forgeGradleMcDeps-&gt;default"/>
+    <dependency org="org.apache.commons" name="commons-lang3" rev="3.3.2" conf="forgeGradleMcDeps-&gt;default"/>
+    <dependency org="commons-io" name="commons-io" rev="2.4" conf="forgeGradleMcDeps-&gt;default"/>
+    <dependency org="commons-codec" name="commons-codec" rev="1.9" conf="forgeGradleMcDeps-&gt;default"/>
+    <dependency org="net.java.jutils" name="jutils" rev="1.0.0" conf="forgeGradleMcDeps-&gt;default"/>
+    <dependency org="com.google.code.gson" name="gson" rev="2.2.4" conf="forgeGradleMcDeps-&gt;default"/>
+    <dependency org="com.mojang" name="authlib" rev="1.5.22" conf="forgeGradleMcDeps-&gt;default"/>
+    <dependency org="com.mojang" name="realms" rev="1.8.19" conf="forgeGradleMcDeps-&gt;default"/>
+    <dependency org="org.apache.commons" name="commons-compress" rev="1.8.1" conf="forgeGradleMcDeps-&gt;default"/>
+    <dependency org="org.apache.httpcomponents" name="httpclient" rev="4.3.3" conf="forgeGradleMcDeps-&gt;default"/>
+    <dependency org="commons-logging" name="commons-logging" rev="1.1.3" conf="forgeGradleMcDeps-&gt;default"/>
+    <dependency org="org.apache.httpcomponents" name="httpcore" rev="4.3.2" conf="forgeGradleMcDeps-&gt;default"/>
+    <dependency org="it.unimi.dsi" name="fastutil" rev="7.0.12_mojang" conf="forgeGradleMcDeps-&gt;default"/>
+    <dependency org="org.apache.logging.log4j" name="log4j-api" rev="2.0-beta9" conf="forgeGradleMcDeps-&gt;default"/>
+    <dependency org="org.apache.logging.log4j" name="log4j-core" rev="2.0-beta9" conf="forgeGradleMcDeps-&gt;default"/>
+    <dependency org="net.minecraft" name="launchwrapper" rev="1.12" conf="forgeGradleMcDeps-&gt;default"/>
+    <dependency org="jline" name="jline" rev="2.13" conf="forgeGradleMcDeps-&gt;default"/>
+    <dependency org="com.google.code.findbugs" name="jsr305" rev="1.3.9" conf="forgeGradleMcDeps-&gt;default"/>
+    <dependency org="org.ow2.asm" name="asm-debug-all" rev="5.0.3" conf="forgeGradleMcDeps-&gt;default"/>
+    <dependency org="com.typesafe.akka" name="akka-actor_2.11" rev="2.3.3" conf="forgeGradleMcDeps-&gt;default"/>
+    <dependency org="com.typesafe" name="config" rev="1.2.1" conf="forgeGradleMcDeps-&gt;default"/>
+    <dependency org="org.scala-lang" name="scala-actors-migration_2.11" rev="1.1.0" conf="forgeGradleMcDeps-&gt;default"/>
+    <dependency org="org.scala-lang" name="scala-compiler" rev="2.11.1" conf="forgeGradleMcDeps-&gt;default"/>
+    <dependency org="org.scala-lang.plugins" name="scala-continuations-library_2.11" rev="1.0.2" conf="forgeGradleMcDeps-&gt;default"/>
+    <dependency org="org.scala-lang.plugins" name="scala-continuations-plugin_2.11.1" rev="1.0.2" conf="forgeGradleMcDeps-&gt;default"/>
+    <dependency org="org.scala-lang" name="scala-library" rev="2.11.1" conf="forgeGradleMcDeps-&gt;default"/>
+    <dependency org="org.scala-lang.modules" name="scala-parser-combinators_2.11" rev="1.0.1" conf="forgeGradleMcDeps-&gt;default"/>
+    <dependency org="org.scala-lang" name="scala-reflect" rev="2.11.1" conf="forgeGradleMcDeps-&gt;default"/>
+    <dependency org="org.scala-lang.modules" name="scala-swing_2.11" rev="1.0.1" conf="forgeGradleMcDeps-&gt;default"/>
+    <dependency org="org.scala-lang.modules" name="scala-xml_2.11" rev="1.0.2" conf="forgeGradleMcDeps-&gt;default"/>
+    <dependency org="lzma" name="lzma" rev="0.0.1" conf="forgeGradleMcDeps-&gt;default"/>
+    <dependency org="net.sf.trove4j" name="trove4j" rev="3.0.3" conf="forgeGradleMcDeps-&gt;default"/>
+    <dependency org="com.paulscode" name="codecjorbis" rev="20101023" conf="forgeGradleMcDepsClient-&gt;default"/>
+    <dependency org="com.paulscode" name="codecwav" rev="20101023" conf="forgeGradleMcDepsClient-&gt;default"/>
+    <dependency org="com.paulscode" name="libraryjavasound" rev="20101123" conf="forgeGradleMcDepsClient-&gt;default"/>
+    <dependency org="com.paulscode" name="librarylwjglopenal" rev="20100824" conf="forgeGradleMcDepsClient-&gt;default"/>
+    <dependency org="com.paulscode" name="soundsystem" rev="20120107" conf="forgeGradleMcDepsClient-&gt;default"/>
+    <dependency org="net.java.jinput" name="jinput" rev="2.0.5" conf="forgeGradleMcDepsClient-&gt;default"/>
+    <dependency org="org.lwjgl.lwjgl" name="lwjgl" rev="2.9.4-nightly-20150209" conf="forgeGradleMcDepsClient-&gt;default"/>
+    <dependency org="org.lwjgl.lwjgl" name="lwjgl_util" rev="2.9.4-nightly-20150209" conf="forgeGradleMcDepsClient-&gt;default"/>
+    <dependency org="java3d" name="vecmath" rev="1.5.2" conf="forgeGradleMcDepsClient-&gt;default"/>
+    <dependency org="org.lwjgl.lwjgl" name="lwjgl-platform" rev="2.9.4-nightly-20150209" conf="forgeGradleMcNatives-&gt;default">
+      <artifact name="lwjgl-platform" type="jar" ext="jar" m:classifier="natives-windows" conf="forgeGradleMcNatives"/>
+    </dependency>
+    <dependency org="net.java.jinput" name="jinput-platform" rev="2.0.5" conf="forgeGradleMcNatives-&gt;default">
+      <artifact name="jinput-platform" type="jar" ext="jar" m:classifier="natives-windows" conf="forgeGradleMcNatives"/>
+    </dependency>
+    <dependency org="de.oceanlabs.mcp" name="mcp" rev="1.9.4" transitive="false" conf="forgeGradleMcpData-&gt;default">
+      <artifact name="mcp" type="zip" ext="zip" m:classifier="srg" conf="forgeGradleMcpData"/>
+    </dependency>
+    <dependency org="de.oceanlabs.mcp" name="mcp_snapshot" rev="20160518-1.9.4" transitive="false" conf="forgeGradleMcpMappings-&gt;default">
+      <artifact name="mcp_snapshot" type="zip" ext="zip" conf="forgeGradleMcpMappings"/>
+    </dependency>
+    <dependency org="net.minecraftforge" name="forge" rev="1.9.4-12.17.0.2317-1.9.4" transitive="false" conf="forgeGradleUserDevPackage-&gt;default">
+      <artifact name="forge" type="jar" ext="jar" m:classifier="userdev" conf="forgeGradleUserDevPackage"/>
+    </dependency>
+  </dependencies>
+</ivy-module>

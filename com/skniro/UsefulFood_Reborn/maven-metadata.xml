@@ -3,8 +3,8 @@
   <groupId>com.skniro</groupId>
   <artifactId>UsefulFood_Reborn</artifactId>
   <versioning>
-    <latest>1.2.5-1.18.2-Fabric</latest>
-    <release>1.2.5-1.18.2-Fabric</release>
+    <latest>1.2.5-1.21.3-Fabric</latest>
+    <release>1.2.5-1.21.3-Fabric</release>
     <versions>
       <version>1.0.0-1.19.2-Fabric</version>
       <version>0.0.0-1.19.2-noForge</version>
@@ -82,7 +82,9 @@
       <version>1.2.5-1.19.2-Forge</version>
       <version>1.2.5-1.18.2-Forge</version>
       <version>1.2.5-1.18.2-Fabric</version>
+      <version>1.2.5-1.21.3-Neoforge</version>
+      <version>1.2.5-1.21.3-Fabric</version>
     </versions>
-    <lastUpdated>20241006132818</lastUpdated>
+    <lastUpdated>20241026042303</lastUpdated>
   </versioning>
 </metadata>

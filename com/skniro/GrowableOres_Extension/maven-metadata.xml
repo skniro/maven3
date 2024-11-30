@@ -3,8 +3,8 @@
   <groupId>com.skniro</groupId>
   <artifactId>GrowableOres_Extension</artifactId>
   <versioning>
-    <latest>1.1.0-1.19.2-Forge</latest>
-    <release>1.1.0-1.19.2-Forge</release>
+    <latest>1.1.1-1.19.2-Forge</latest>
+    <release>1.1.1-1.19.2-Forge</release>
     <versions>
       <version>1.0.0-1.21-Forge</version>
       <version>1.0.0-1.21-Fabric</version>
@@ -30,7 +30,19 @@
       <version>1.1.0-1.20.1-Forge</version>
       <version>1.1.0-1.19.2-Fabric</version>
       <version>1.1.0-1.19.2-Forge</version>
+      <version>1.1.1-1.21-Fabric</version>
+      <version>1.1.1-1.21-Forge</version>
+      <version>1.1.1-1.21-NeoForge</version>
+      <version>1.1.1-1.20.1-Fabric</version>
+      <version>1.1.1-1.20.1-Forge</version>
+      <version>1.1.1-1.21.3-Forge</version>
+      <version>1.1.1-1.21.3-NeoForge</version>
+      <version>1.1.1-1.21.3-Fabric</version>
+      <version>1.1.1-1.20.4-Fabric</version>
+      <version>1.1.1-1.20.4-Forge</version>
+      <version>1.1.1-1.19.2-Fabric</version>
+      <version>1.1.1-1.19.2-Forge</version>
     </versions>
-    <lastUpdated>20241123111405</lastUpdated>
+    <lastUpdated>20241124054130</lastUpdated>
   </versioning>
 </metadata>

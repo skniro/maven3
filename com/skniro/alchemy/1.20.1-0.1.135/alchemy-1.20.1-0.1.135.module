@@ -1,0 +1,110 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.skniro",
+    "module": "alchemy",
+    "version": "1.20.1-0.1.135",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.10"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "alchemy-1.20.1-0.1.135.jar",
+          "url": "alchemy-1.20.1-0.1.135.jar",
+          "size": 1693935,
+          "sha512": "0d1082ba962a017ff1b69480a7da74ae20ba645bf1c0425ef6bd4ecdad5aa29fee5233a2c7f5e3b8448a49dcce63c376f0e6db904763f557effc8cd6d7ad9a35",
+          "sha256": "f274facec3ceb40296631b3984b0780363a47bc3b857cb2d76c36b3f446d22bc",
+          "sha1": "dce1417b26c68594752524a59545d035f5e191ad",
+          "md5": "1d2ce5b976dd96cf6db899f52497d2cf"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "net.fabricmc",
+          "module": "fabric-loader",
+          "version": {
+            "requires": "0.15.10"
+          }
+        },
+        {
+          "group": "net.fabricmc.fabric-api",
+          "module": "fabric-api",
+          "version": {
+            "requires": "0.92.2+1.20.1"
+          }
+        },
+        {
+          "group": "com.github.glitchfiend",
+          "module": "TerraBlender-fabric",
+          "version": {
+            "requires": "1.20.1-3.0.1.7"
+          }
+        },
+        {
+          "group": "dev.emi",
+          "module": "trinkets",
+          "version": {
+            "requires": "3.7.2"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "alchemy-1.20.1-0.1.135.jar",
+          "url": "alchemy-1.20.1-0.1.135.jar",
+          "size": 1693935,
+          "sha512": "0d1082ba962a017ff1b69480a7da74ae20ba645bf1c0425ef6bd4ecdad5aa29fee5233a2c7f5e3b8448a49dcce63c376f0e6db904763f557effc8cd6d7ad9a35",
+          "sha256": "f274facec3ceb40296631b3984b0780363a47bc3b857cb2d76c36b3f446d22bc",
+          "sha1": "dce1417b26c68594752524a59545d035f5e191ad",
+          "md5": "1d2ce5b976dd96cf6db899f52497d2cf"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "alchemy-1.20.1-0.1.135-sources.jar",
+          "url": "alchemy-1.20.1-0.1.135-sources.jar",
+          "size": 1681290,
+          "sha512": "0bfcdd22baa3b04c9502f6468d120c6c03b849238d8a5a057c8d7b25d0b91601cf29b2bd0c48834e74a5f1ec8a71c0d12ab76791908fee9c08d56ed736dbb8ac",
+          "sha256": "7005b7435756f5148d9ff1e8a1e1db7a863f754c0f7f022f04a0d3868d0f6010",
+          "sha1": "dd9c7d5f65e133f8d6e15a9358f427c2ca126186",
+          "md5": "c8beb737cf2d4b90431a5783e96b1a90"
+        }
+      ]
+    }
+  ]
+}

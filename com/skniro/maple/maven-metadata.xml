@@ -3,8 +3,8 @@
   <groupId>com.skniro</groupId>
   <artifactId>maple</artifactId>
   <versioning>
-    <latest>1.19.2-1.3.8-Forge</latest>
-    <release>1.19.2-1.3.8-Forge</release>
+    <latest>1.20.1-1.3.10-Forge</latest>
+    <release>1.20.1-1.3.10-Forge</release>
     <versions>
       <version>1.19.2-0.0.1-SNAPSHOT</version>
       <version>1.19.2-0.0.2-SNAPSHOT</version>
@@ -119,7 +119,8 @@
       <version>1.3.1-1.21-Forge</version>
       <version>1.3.1-1.21-NeoForge</version>
       <version>1.19.2-1.3.8-Forge</version>
+      <version>1.20.1-1.3.10-Forge</version>
     </versions>
-    <lastUpdated>20241109122642</lastUpdated>
+    <lastUpdated>20250104060844</lastUpdated>
   </versioning>
 </metadata>

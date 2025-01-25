@@ -3,8 +3,8 @@
   <groupId>com.skniro</groupId>
   <artifactId>alchemy</artifactId>
   <versioning>
-    <latest>1.20.1-0.1.154-Fabric</latest>
-    <release>1.20.1-0.1.154-Fabric</release>
+    <latest>1.20.1-0.1.165-Fabric</latest>
+    <release>1.20.1-0.1.165-Fabric</release>
     <versions>
       <version>1.20.1-0.1.103-Beta1</version>
       <version>1.20.1-0.1.105</version>
@@ -35,7 +35,16 @@
       <version>1.20.1-0.1.150-Fabric</version>
       <version>1.20.1-0.1.151-Fabric</version>
       <version>1.20.1-0.1.154-Fabric</version>
+      <version>1.20.1-0.1.155-Fabric</version>
+      <version>1.20.1-0.1.156-Fabric</version>
+      <version>1.20.1-0.1.158-Fabric</version>
+      <version>1.20.1-0.1.159-Fabric</version>
+      <version>1.20.1-0.1.160-Fabric</version>
+      <version>1.20.1-0.1.161-Fabric</version>
+      <version>1.20.1-0.1.163-Fabric</version>
+      <version>1.20.1-0.1.164-Fabric</version>
+      <version>1.20.1-0.1.165-Fabric</version>
     </versions>
-    <lastUpdated>20241214131156</lastUpdated>
+    <lastUpdated>20250123103818</lastUpdated>
   </versioning>
 </metadata>

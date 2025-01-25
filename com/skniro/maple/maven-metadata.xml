@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.skniro</groupId>
-  <artifactId>Maple</artifactId>
+  <artifactId>maple</artifactId>
   <versioning>
-    <latest>1.3.2-1.21-NeoForge</latest>
-    <release>1.3.2-1.21-NeoForge</release>
+    <latest>1.20.1-1.4.0.25w04d-Fabric</latest>
+    <release>1.20.1-1.4.0.25w04d-Fabric</release>
     <versions>
       <version>1.19.2-0.0.1-SNAPSHOT</version>
       <version>1.19.2-0.0.2-SNAPSHOT</version>
@@ -129,7 +129,17 @@
       <version>1.3.1-1.21-Fabric</version>
       <version>1.3.2-1.21-Forge</version>
       <version>1.3.2-1.21-NeoForge</version>
+      <version>1.3.3-1.21-Fabric</version>
+      <version>1.3.3-1.21-Forge</version>
+      <version>1.3.3-1.21-NeoForge</version>
+      <version>1.3.4-1.21-Forge</version>
+      <version>1.3.4-1.21-NeoForge</version>
+      <version>1.20.1-1.3.11-Forge</version>
+      <version>1.20.1-1.4.0.25w04a-Fabric</version>
+      <version>1.20.1-1.4.0.25w04b-Fabric</version>
+      <version>1.20.1-1.4.0.25w04c-Fabric</version>
+      <version>1.20.1-1.4.0.25w04d-Fabric</version>
     </versions>
-    <lastUpdated>20250114115644</lastUpdated>
+    <lastUpdated>20250124131427</lastUpdated>
   </versioning>
 </metadata>

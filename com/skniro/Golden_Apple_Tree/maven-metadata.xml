@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.skniro</groupId>
+  <artifactId>Golden_Apple_Tree</artifactId>
+  <versioning>
+    <latest>1.0.0-1.21.4-Fabric</latest>
+    <release>1.0.0-1.21.4-Fabric</release>
+    <versions>
+      <version>1.0.0-1.21.4-Forge</version>
+      <version>1.0.0-1.21.4-NeoForge</version>
+      <version>1.0.0-1.21.4-Fabric</version>
+    </versions>
+    <lastUpdated>20250203113616</lastUpdated>
+  </versioning>
+</metadata>

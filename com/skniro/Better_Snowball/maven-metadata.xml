@@ -3,8 +3,8 @@
   <groupId>com.skniro</groupId>
   <artifactId>Better_Snowball</artifactId>
   <versioning>
-    <latest>1.2.0-1.21.4-Fabric</latest>
-    <release>1.2.0-1.21.4-Fabric</release>
+    <latest>1.21.1-1.2.1-NeoForge</latest>
+    <release>1.21.1-1.2.1-NeoForge</release>
     <versions>
       <version>1.20.1-1.0.0-Fabric</version>
       <version>1.20.1-1.0.0-Forge</version>
@@ -37,7 +37,17 @@
       <version>1.2.0-1.21.4-Forge</version>
       <version>1.2.0-1.21.4-NeoForge</version>
       <version>1.2.0-1.21.4-Fabric</version>
+      <version>1.2.1-1.21.4-Forge</version>
+      <version>1.2.1-1.21.4-Fabric</version>
+      <version>1.2.1-1.21.4-NeoForge</version>
+      <version>1.20.4-1.1.1-Forge</version>
+      <version>1.20.4-1.1.1-Fabric</version>
+      <version>1.20.1-1.2.1-Fabric</version>
+      <version>1.20.1-1.2.1-Forge</version>
+      <version>1.21.1-1.2.1-Forge</version>
+      <version>1.21.1-1.2.1-Fabric</version>
+      <version>1.21.1-1.2.1-NeoForge</version>
     </versions>
-    <lastUpdated>20250119083426</lastUpdated>
+    <lastUpdated>20250202111428</lastUpdated>
   </versioning>
 </metadata>

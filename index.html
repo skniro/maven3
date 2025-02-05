@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Maven Repository</title>
+</head>
+<body>
+    <h1>Maven Repository</h1>
+    <ul id="file-list">加载中...</ul>
+
+    <script>
+        const repoOwner = "skniro";
+        const repoName = "maven3";  
+        const repoBranch = "main";  
+        const folderPath = "com/skniro"; 
+
+        async function fetchFiles() {
+            const url = `https://api.github.com/repos/${repoOwner}/${repoName}/contents/${folderPath}?ref=${repoBranch}`;
+            const response = await fetch(url);
+            const files = await response.json();
+
+            const fileList = document.getElementById("file-list");
+            fileList.innerHTML = "";
+
+            files.forEach(file => {
+                const li = document.createElement("li");
+                const a = document.createElement("a");
+                a.href = file.download_url;
+                a.textContent = file.name;
+                li.appendChild(a);
+                fileList.appendChild(li);
+            });
+        }
+
+        fetchFiles().catch(error => {
+            document.getElementById("file-list").innerHTML = "无法加载文件列表";
+            console.error("加载失败:", error);
+        });
+    </script>
+</body>
+</html>

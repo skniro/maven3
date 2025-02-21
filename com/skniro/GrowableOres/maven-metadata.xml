@@ -3,8 +3,8 @@
   <groupId>com.skniro</groupId>
   <artifactId>GrowableOres</artifactId>
   <versioning>
-    <latest>3.0.2-1.18.2-Forge</latest>
-    <release>3.0.2-1.18.2-Forge</release>
+    <latest>3.0.5-1.18.2-Forge</latest>
+    <release>3.0.5-1.18.2-Forge</release>
     <versions>
       <version>0.1.0-1.20.1</version>
       <version>1.0.0-1.20.1</version>
@@ -309,7 +309,33 @@
       <version>3.0.2-1.19.2-Forge</version>
       <version>3.0.2-1.18.2-Fabric</version>
       <version>3.0.2-1.18.2-Forge</version>
+      <version>3.0.3-1.16.5-Forge</version>
+      <version>3.0.3-1.16.5-Fabric</version>
+      <version>3.0.3-1.19.2-Fabric</version>
+      <version>3.0.3-1.19.2-Forge</version>
+      <version>3.0.3-1.18.2-Fabric</version>
+      <version>3.0.3-1.18.2-Forge</version>
+      <version>3.0.6-1.20.1-Fabric</version>
+      <version>3.0.6-1.20.1-Forge</version>
+      <version>3.0.4-1.16.5-Forge</version>
+      <version>3.0.4-1.16.5-Fabric</version>
+      <version>3.0.5-1.16.5-Fabric</version>
+      <version>3.0.5-1.16.5-Forge</version>
+      <version>3.0.4-1.18.2-Fabric</version>
+      <version>3.0.4-1.18.2-Forge</version>
+      <version>3.0.7-1.20.1-Fabric</version>
+      <version>3.0.7-1.20.1-Forge</version>
+      <version>3.0.4-1.19.2-Fabric</version>
+      <version>3.0.4-1.19.2-Forge</version>
+      <version>3.0.8-1.20.1-Fabric</version>
+      <version>3.0.8-1.20.1-Forge</version>
+      <version>3.0.6-1.16.5-Forge</version>
+      <version>3.0.6-1.16.5-Fabric</version>
+      <version>3.0.5-1.19.2-Forge</version>
+      <version>3.0.5-1.19.2-Fabric</version>
+      <version>3.0.5-1.18.2-Fabric</version>
+      <version>3.0.5-1.18.2-Forge</version>
     </versions>
-    <lastUpdated>20250128034226</lastUpdated>
+    <lastUpdated>20250221152011</lastUpdated>
   </versioning>
 </metadata>

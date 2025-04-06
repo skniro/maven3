@@ -3,8 +3,8 @@
   <groupId>com.skniro</groupId>
   <artifactId>Maple</artifactId>
   <versioning>
-    <latest>1.4.1-1.21.1-NeoForge</latest>
-    <release>1.4.1-1.21.1-NeoForge</release>
+    <latest>1.0.0-1.21.1-NeoForge</latest>
+    <release>1.0.0-1.21.1-NeoForge</release>
     <versions>
       <version>1.19.2-0.0.1-SNAPSHOT</version>
       <version>1.19.2-0.0.2-SNAPSHOT</version>
@@ -160,7 +160,32 @@
       <version>1.4.1-1.21.1-Fabric</version>
       <version>1.4.1-1.21.1-Forge</version>
       <version>1.4.1-1.21.1-NeoForge</version>
+      <version>1.4.2-1.21.4-NeoForge</version>
+      <version>1.4.2-1.21.4-Fabric</version>
+      <version>1.4.2-1.21.1-Fabric</version>
+      <version>1.20.1-1.4.5-Fabric</version>
+      <version>1.20.1-1.4.5-Forge</version>
+      <version>1.4.2-1.21.1-Forge</version>
+      <version>1.4.2-1.21.1-NeoForge</version>
+      <version>1.4.3-1.21.4-NeoForge</version>
+      <version>1.4.3-1.21.4-Fabric</version>
+      <version>1.20.1-1.4.6-Fabric</version>
+      <version>1.20.1-1.4.6-Forge</version>
+      <version>1.4.3-1.21.1-Fabric</version>
+      <version>1.4.3-1.21.1-Forge</version>
+      <version>1.4.3-1.21.1-NeoForge</version>
+      <version>1.20.1-1.4.7-Forge</version>
+      <version>1.20.1-1.4.8-Forge</version>
+      <version>1.20.1-1.4.8-Fabric</version>
+      <version>1.4.4-1.21.4-NeoForge</version>
+      <version>1.4.4-1.21.4-Fabric</version>
+      <version>1.4.4-1.21.1-Fabric</version>
+      <version>1.4.4-1.21.1-Forge</version>
+      <version>1.4.4-1.21.1-NeoForge</version>
+      <version>1.0.0-1.21.1-Fabric</version>
+      <version>1.0.0-1.21.1-Forge</version>
+      <version>1.0.0-1.21.1-NeoForge</version>
     </versions>
-    <lastUpdated>20250204070001</lastUpdated>
+    <lastUpdated>20250406070818</lastUpdated>
   </versioning>
 </metadata>

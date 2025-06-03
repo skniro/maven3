@@ -3,8 +3,8 @@
   <groupId>com.skniro</groupId>
   <artifactId>nether_ores_reborn</artifactId>
   <versioning>
-    <latest>1.0.3-1.20.2-Fabric</latest>
-    <release>1.0.3-1.20.2-Fabric</release>
+    <latest>1.0.0-1.21.5-Fabric</latest>
+    <release>1.0.0-1.21.5-Fabric</release>
     <versions>
       <version>1.0.0-1.20.1</version>
       <version>1.0.0-1.19.4-Fabric</version>
@@ -14,7 +14,13 @@
       <version>1.0.2-1.20.1-Fabric</version>
       <version>1.0.2-1.19.4-Fabric</version>
       <version>1.0.3-1.20.2-Fabric</version>
+      <version>1.0.0-1.21.1-Forge</version>
+      <version>1.0.0-1.21.1-NeoForge</version>
+      <version>1.0.0-1.21.1-Fabric</version>
+      <version>1.0.0-1.21.5-Forge</version>
+      <version>1.0.0-1.21.5-NeoForge</version>
+      <version>1.0.0-1.21.5-Fabric</version>
     </versions>
-    <lastUpdated>20231001034144</lastUpdated>
+    <lastUpdated>20250601133346</lastUpdated>
   </versioning>
 </metadata>

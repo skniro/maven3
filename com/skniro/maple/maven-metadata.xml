@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.skniro</groupId>
-  <artifactId>maple</artifactId>
+  <artifactId>Maple</artifactId>
   <versioning>
-    <latest>1.20.1-1.4.11-Forge</latest>
-    <release>1.20.1-1.4.11-Forge</release>
+    <latest>1.4.8-1.21.4-Fabric</latest>
+    <release>1.4.8-1.21.4-Fabric</release>
     <versions>
       <version>1.19.2-0.0.1-SNAPSHOT</version>
       <version>1.19.2-0.0.2-SNAPSHOT</version>
@@ -192,7 +192,9 @@
       <version>1.4.7-1.21.4-Fabric</version>
       <version>1.20.1-1.4.11-Fabric</version>
       <version>1.20.1-1.4.11-Forge</version>
+      <version>1.4.8-1.21.4-NeoForge</version>
+      <version>1.4.8-1.21.4-Fabric</version>
     </versions>
-    <lastUpdated>20250510115229</lastUpdated>
+    <lastUpdated>20250602094251</lastUpdated>
   </versioning>
 </metadata>

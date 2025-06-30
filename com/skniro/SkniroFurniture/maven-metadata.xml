@@ -3,8 +3,8 @@
   <groupId>com.skniro</groupId>
   <artifactId>SkniroFurniture</artifactId>
   <versioning>
-    <latest>1.0.0.25w22a-1.21.4-Fabric</latest>
-    <release>1.0.0.25w22a-1.21.4-Fabric</release>
+    <latest>1.0.0-1.21.6-Fabric</latest>
+    <release>1.0.0-1.21.6-Fabric</release>
     <versions>
       <version>1.0.0.25w17a-1.21.4-Fabric</version>
       <version>1.0.0.25w18a-1.21.4-Fabric</version>
@@ -27,7 +27,19 @@
       <version>1.0.0.25w22a-1.21.4-Forge</version>
       <version>1.0.0.25w22a-1.21.4-NeoForge</version>
       <version>1.0.0.25w22a-1.21.4-Fabric</version>
+      <version>1.0.0.25w26a-1.21.6-Forge</version>
+      <version>1.0.0.25w26a-1.21.6-NeoForge</version>
+      <version>1.0.0.25w26a-1.21.6-Fabric</version>
+      <version>1.0.0.25w26b-1.21.6-Forge</version>
+      <version>1.0.0.25w26b-1.21.6-NeoForge</version>
+      <version>1.0.0.25w26b-1.21.6-Fabric</version>
+      <version>1.0.0.25w27a-1.21.6-Forge</version>
+      <version>1.0.0.25w27a-1.21.6-NeoForge</version>
+      <version>1.0.0.25w27a-1.21.6-Fabric</version>
+      <version>1.0.0-1.21.6-Forge</version>
+      <version>1.0.0-1.21.6-NeoForge</version>
+      <version>1.0.0-1.21.6-Fabric</version>
     </versions>
-    <lastUpdated>20250527064641</lastUpdated>
+    <lastUpdated>20250630133759</lastUpdated>
   </versioning>
 </metadata>

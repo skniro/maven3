@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.skniro</groupId>
+  <artifactId>Maple</artifactId>
+  <version>1.4.7-1.21.1-Fabric</version>
+  <dependencies>
+    <dependency>
+      <groupId>com.github.llamalad7.mixinextras</groupId>
+      <artifactId>mixinextras-fabric</artifactId>
+      <version>0.2.0-beta.9</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>net.fabricmc</groupId>
+      <artifactId>fabric-loader</artifactId>
+      <version>0.15.11</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>net.fabricmc.fabric-api</groupId>
+      <artifactId>fabric-api</artifactId>
+      <version>0.106.0+1.21.1</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.github.glitchfiend</groupId>
+      <artifactId>TerraBlender-fabric</artifactId>
+      <version>1.21.1-4.1.0.8</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>me.shedaniel</groupId>
+      <artifactId>RoughlyEnoughItems-fabric</artifactId>
+      <version>16.0.788</version>
+      <scope>runtime</scope>
+    </dependency>
+  </dependencies>
+</project>

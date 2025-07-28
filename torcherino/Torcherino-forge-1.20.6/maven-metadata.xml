@@ -3,13 +3,14 @@
   <groupId>torcherino</groupId>
   <artifactId>Torcherino-forge-1.20.6</artifactId>
   <versioning>
-    <latest>23.0.2</latest>
-    <release>23.0.2</release>
+    <latest>23.0.3</latest>
+    <release>23.0.3</release>
     <versions>
       <version>23.0.0</version>
       <version>23.0.1</version>
       <version>23.0.2</version>
+      <version>23.0.3</version>
     </versions>
-    <lastUpdated>20250703091923</lastUpdated>
+    <lastUpdated>20250720100036</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>com.skniro</groupId>
   <artifactId>SkniroFurniture</artifactId>
   <versioning>
-    <latest>1.1.0.25w31f-1.21.7-Fabric</latest>
-    <release>1.1.0.25w31f-1.21.7-Fabric</release>
+    <latest>1.1.0-1.21.7-Fabric</latest>
+    <release>1.1.0-1.21.7-Fabric</release>
     <versions>
       <version>1.0.0.25w17a-1.21.4-Fabric</version>
       <version>1.0.0.25w18a-1.21.4-Fabric</version>
@@ -88,7 +88,10 @@
       <version>1.1.0.25w31d-1.21.7-Fabric</version>
       <version>1.1.0.25w31e-1.21.7-Fabric</version>
       <version>1.1.0.25w31f-1.21.7-Fabric</version>
+      <version>1.1.0-1.21.7-Forge</version>
+      <version>1.1.0-1.21.7-NeoForge</version>
+      <version>1.1.0-1.21.7-Fabric</version>
     </versions>
-    <lastUpdated>20250802093907</lastUpdated>
+    <lastUpdated>20250804094949</lastUpdated>
   </versioning>
 </metadata>

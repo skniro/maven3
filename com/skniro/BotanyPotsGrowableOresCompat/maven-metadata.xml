@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.skniro</groupId>
+  <artifactId>BotanyPotsGrowableOresCompat</artifactId>
+  <versioning>
+    <latest>1.0.1-1.21.1-NeoForge</latest>
+    <release>1.0.1-1.21.1-NeoForge</release>
+    <versions>
+      <version>1.0.0-1.21.1-NeoForge</version>
+      <version>1.0.0-1.21.1-Fabric</version>
+      <version>1.0.1-1.21.1-Fabric</version>
+      <version>1.0.1-1.21.1-NeoForge</version>
+    </versions>
+    <lastUpdated>20250830101643</lastUpdated>
+  </versioning>
+</metadata>

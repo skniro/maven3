@@ -3,8 +3,8 @@
   <groupId>com.skniro</groupId>
   <artifactId>UsefulFood_Reborn</artifactId>
   <versioning>
-    <latest>1.2.7-1.16.5-Fabric</latest>
-    <release>1.2.7-1.16.5-Fabric</release>
+    <latest>1.3.9-1.21.9-Neoforge</latest>
+    <release>1.3.9-1.21.9-Neoforge</release>
     <versions>
       <version>1.0.0-1.19.2-Fabric</version>
       <version>0.0.0-1.19.2-noForge</version>
@@ -225,7 +225,32 @@
       <version>1.3.4-1.18.2-Forge</version>
       <version>1.2.7-1.16.5-Forge</version>
       <version>1.2.7-1.16.5-Fabric</version>
+      <version>1.3.9-1.21.7-Forge</version>
+      <version>1.3.9-1.21.7-Neoforge</version>
+      <version>1.3.9-1.21.7-Fabric</version>
+      <version>1.3.9-1.21.5-Forge</version>
+      <version>1.3.9-1.21.5-Neoforge</version>
+      <version>1.3.9-1.21.5-Fabric</version>
+      <version>1.3.7-1.21.4-Fabric</version>
+      <version>1.3.7-1.21.4-Forge</version>
+      <version>1.3.7-1.21.4-Neoforge</version>
+      <version>1.3.5-1.21.1-Forge</version>
+      <version>1.3.5-1.21.1-Fabric</version>
+      <version>1.3.5-1.21.1-Neoforge</version>
+      <version>1.3.5-1.20.4-Forge</version>
+      <version>1.3.5-1.20.4-Fabric</version>
+      <version>1.3.5-1.20.1-Forge</version>
+      <version>1.3.5-1.20.1-Fabric</version>
+      <version>1.3.5-1.19.2-Fabric</version>
+      <version>1.3.5-1.19.2-Forge</version>
+      <version>1.3.5-1.18.2-Fabric</version>
+      <version>1.3.5-1.18.2-Forge</version>
+      <version>1.2.8-1.16.5-Fabric</version>
+      <version>1.2.8-1.16.5-Forge</version>
+      <version>1.3.9-1.21.9-Neoforge</version>
+      <version>1.3.9-1.21.9-Fabric</version>
+      <version>1.3.9-1.21.9-Forge</version>
     </versions>
-    <lastUpdated>20250916101217</lastUpdated>
+    <lastUpdated>20251002112618</lastUpdated>
   </versioning>
 </metadata>

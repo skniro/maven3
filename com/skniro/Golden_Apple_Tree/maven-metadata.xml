@@ -3,8 +3,8 @@
   <groupId>com.skniro</groupId>
   <artifactId>Golden_Apple_Tree</artifactId>
   <versioning>
-    <latest>1.2.2-1.21.9-Fabric</latest>
-    <release>1.2.2-1.21.9-Fabric</release>
+    <latest>1.2.2-1.21.10-Fabric</latest>
+    <release>1.2.2-1.21.10-Fabric</release>
     <versions>
       <version>1.0.0-1.21.4-Forge</version>
       <version>1.0.0-1.21.4-NeoForge</version>
@@ -65,7 +65,10 @@
       <version>1.2.2-1.21.9-Forge</version>
       <version>1.2.2-1.21.9-NeoForge</version>
       <version>1.2.2-1.21.9-Fabric</version>
+      <version>1.2.2-1.21.10-Forge</version>
+      <version>1.2.2-1.21.10-NeoForge</version>
+      <version>1.2.2-1.21.10-Fabric</version>
     </versions>
-    <lastUpdated>20251002120036</lastUpdated>
+    <lastUpdated>20251008101906</lastUpdated>
   </versioning>
 </metadata>

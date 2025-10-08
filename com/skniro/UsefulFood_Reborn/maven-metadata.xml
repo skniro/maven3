@@ -3,8 +3,8 @@
   <groupId>com.skniro</groupId>
   <artifactId>UsefulFood_Reborn</artifactId>
   <versioning>
-    <latest>1.3.9-1.21.9-Neoforge</latest>
-    <release>1.3.9-1.21.9-Neoforge</release>
+    <latest>1.2.10-1.16.5-Fabric</latest>
+    <release>1.2.10-1.16.5-Fabric</release>
     <versions>
       <version>1.0.0-1.19.2-Fabric</version>
       <version>0.0.0-1.19.2-noForge</version>
@@ -250,7 +250,63 @@
       <version>1.3.9-1.21.9-Neoforge</version>
       <version>1.3.9-1.21.9-Fabric</version>
       <version>1.3.9-1.21.9-Forge</version>
+      <version>1.3.10-1.21.9-Forge</version>
+      <version>1.3.10-1.21.9-Neoforge</version>
+      <version>1.3.10-1.21.7-Forge</version>
+      <version>1.3.10-1.21.7-Neoforge</version>
+      <version>1.3.10-1.21.7-Fabric</version>
+      <version>1.3.10-1.21.5-Forge</version>
+      <version>1.3.10-1.21.5-Neoforge</version>
+      <version>1.3.10-1.21.5-Fabric</version>
+      <version>1.3.8-1.21.4-Fabric</version>
+      <version>1.3.8-1.21.4-Forge</version>
+      <version>1.3.8-1.21.4-Neoforge</version>
+      <version>1.3.6-1.21.1-Forge</version>
+      <version>1.3.6-1.21.1-Neoforge</version>
+      <version>1.3.6-1.21.1-Fabric</version>
+      <version>1.3.6-1.20.4-Forge</version>
+      <version>1.3.6-1.20.4-Fabric</version>
+      <version>1.3.6-1.20.1-Forge</version>
+      <version>1.3.6-1.20.1-Fabric</version>
+      <version>1.3.6-1.19.2-Forge</version>
+      <version>1.3.6-1.19.2-Fabric</version>
+      <version>1.3.6-1.18.2-Forge</version>
+      <version>1.3.6-1.18.2-Fabric</version>
+      <version>1.2.9-1.16.5-Forge</version>
+      <version>1.2.9-1.16.5-Fabric</version>
+      <version>1.3.10-1.21.9-Fabric</version>
+      <version>1.3.10-1.21.10-Forge</version>
+      <version>1.3.10-1.21.10-Neoforge</version>
+      <version>1.3.10-1.21.10-Fabric</version>
+      <version>1.3.11-1.21.10-Forge</version>
+      <version>1.3.11-1.21.10-Neoforge</version>
+      <version>1.3.11-1.21.10-Fabric</version>
+      <version>1.3.12-1.21.10-Forge</version>
+      <version>1.3.12-1.21.10-Neoforge</version>
+      <version>1.3.12-1.21.10-Fabric</version>
+      <version>1.3.11-1.21.7-Forge</version>
+      <version>1.3.11-1.21.7-Neoforge</version>
+      <version>1.3.11-1.21.7-Fabric</version>
+      <version>1.3.11-1.21.5-Forge</version>
+      <version>1.3.11-1.21.5-Neoforge</version>
+      <version>1.3.11-1.21.5-Fabric</version>
+      <version>1.3.9-1.21.4-Forge</version>
+      <version>1.3.9-1.21.4-Fabric</version>
+      <version>1.3.9-1.21.4-Neoforge</version>
+      <version>1.3.7-1.21.1-Forge</version>
+      <version>1.3.7-1.21.1-Fabric</version>
+      <version>1.3.7-1.21.1-Neoforge</version>
+      <version>1.3.7-1.20.4-Fabric</version>
+      <version>1.3.7-1.20.4-Forge</version>
+      <version>1.3.7-1.20.1-Forge</version>
+      <version>1.3.7-1.20.1-Fabric</version>
+      <version>1.3.7-1.19.2-Forge</version>
+      <version>1.3.7-1.19.2-Fabric</version>
+      <version>1.3.7-1.18.2-Forge</version>
+      <version>1.3.7-1.18.2-Fabric</version>
+      <version>1.2.10-1.16.5-Forge</version>
+      <version>1.2.10-1.16.5-Fabric</version>
     </versions>
-    <lastUpdated>20251002112618</lastUpdated>
+    <lastUpdated>20251008112554</lastUpdated>
   </versioning>
 </metadata>

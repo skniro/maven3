@@ -3,8 +3,8 @@
   <groupId>com.skniro</groupId>
   <artifactId>SkniroNetherAndEndOres</artifactId>
   <versioning>
-    <latest>1.1.0-1.21.10-Fabric</latest>
-    <release>1.1.0-1.21.10-Fabric</release>
+    <latest>1.1.0-1.21.11-Fabric</latest>
+    <release>1.1.0-1.21.11-Fabric</release>
     <versions>
       <version>1.1.0-1.21.7-Forge</version>
       <version>1.1.0-1.21.7-NeoForge</version>
@@ -21,7 +21,10 @@
       <version>1.1.0-1.21.10-Forge</version>
       <version>1.1.0-1.21.10-NeoForge</version>
       <version>1.1.0-1.21.10-Fabric</version>
+      <version>1.1.0-1.21.11-Forge</version>
+      <version>1.1.0-1.21.11-NeoForge</version>
+      <version>1.1.0-1.21.11-Fabric</version>
     </versions>
-    <lastUpdated>20251008101651</lastUpdated>
+    <lastUpdated>20251211140039</lastUpdated>
   </versioning>
 </metadata>

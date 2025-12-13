@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.skniro</groupId>
+  <artifactId>BotanyPotsGrowableOresCompat</artifactId>
+  <version>1.0.2-1.21.1-Fabric</version>
+  <dependencies>
+    <dependency>
+      <groupId>net.fabricmc</groupId>
+      <artifactId>fabric-loader</artifactId>
+      <version>0.16.14</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>net.fabricmc.fabric-api</groupId>
+      <artifactId>fabric-api</artifactId>
+      <version>0.114.0+1.21.1</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>me.shedaniel</groupId>
+      <artifactId>RoughlyEnoughItems-fabric</artifactId>
+      <version>16.0.788</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>curse.maven</groupId>
+      <artifactId>botany-pots-353928</artifactId>
+      <version>6910389</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>net.darkhax.pricklemc</groupId>
+      <artifactId>prickle-fabric-1.21.1</artifactId>
+      <version>21.1.10</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>net.darkhax.bookshelf</groupId>
+      <artifactId>bookshelf-fabric-1.21.1</artifactId>
+      <version>21.1.68</version>
+      <scope>runtime</scope>
+    </dependency>
+  </dependencies>
+</project>

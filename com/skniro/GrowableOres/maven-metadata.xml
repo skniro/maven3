@@ -3,8 +3,8 @@
   <groupId>com.skniro</groupId>
   <artifactId>GrowableOres</artifactId>
   <versioning>
-    <latest>3.5.1-1.21.10-Fabric</latest>
-    <release>3.5.1-1.21.10-Fabric</release>
+    <latest>3.6.1-1.21.11-Fabric</latest>
+    <release>3.6.1-1.21.11-Fabric</release>
     <versions>
       <version>0.1.0-1.20.1</version>
       <version>1.0.0-1.20.1</version>
@@ -562,7 +562,46 @@
       <version>3.5.1-1.21.10-Forge</version>
       <version>3.5.1-1.21.10-NeoForge</version>
       <version>3.5.1-1.21.10-Fabric</version>
+      <version>3.6.0.25w44a-1.21.10-Forge</version>
+      <version>3.6.0.25w44a-1.21.10-NeoForge</version>
+      <version>3.6.0.25w44a-1.21.10-Fabric</version>
+      <version>3.6.0.25w44a-1.21.1-Forge</version>
+      <version>3.6.0.25w44a-1.21.1-NeoForge</version>
+      <version>3.6.0.25w44a-1.21.1-Fabric</version>
+      <version>3.6.0-1.21.1-Forge</version>
+      <version>3.6.0-1.21.1-NeoForge</version>
+      <version>3.6.0-1.21.1-Fabric</version>
+      <version>3.6.0-1.21.8-Forge</version>
+      <version>3.6.0-1.21.8-NeoForge</version>
+      <version>3.6.0-1.21.8-Fabric</version>
+      <version>3.6.0-1.21.10-Forge</version>
+      <version>3.6.0-1.21.10-NeoForge</version>
+      <version>3.6.0-1.21.10-Fabric</version>
+      <version>3.6.0-1.20.1-Forge</version>
+      <version>3.6.0-1.20.1-Fabric</version>
+      <version>3.6.0-1.19.2-Forge</version>
+      <version>3.6.0-1.19.2-Fabric</version>
+      <version>3.6.0-1.18.2-Forge</version>
+      <version>3.6.0-1.18.2-Fabric</version>
+      <version>3.6.1-1.21.10-Forge</version>
+      <version>3.6.1-1.21.10-NeoForge</version>
+      <version>3.6.1-1.21.10-Fabric</version>
+      <version>3.6.1-1.21.8-Forge</version>
+      <version>3.6.1-1.21.8-NeoForge</version>
+      <version>3.6.1-1.21.8-Fabric</version>
+      <version>3.6.1-1.21.1-Forge</version>
+      <version>3.6.1-1.21.1-NeoForge</version>
+      <version>3.6.1-1.21.1-Fabric</version>
+      <version>3.6.1-1.20.1-Fabric</version>
+      <version>3.6.1-1.20.1-Forge</version>
+      <version>3.6.1-1.19.2-Fabric</version>
+      <version>3.6.1-1.19.2-Forge</version>
+      <version>3.6.1-1.18.2-Fabric</version>
+      <version>3.6.1-1.18.2-Forge</version>
+      <version>3.6.1-1.21.11-Fabric</version>
+      <version>3.6.1-1.21.11-NeoForge</version>
+      <version>3.6.1-1.21.11-Forge</version>
     </versions>
-    <lastUpdated>20251008074538</lastUpdated>
+    <lastUpdated>20251210145821</lastUpdated>
   </versioning>
 </metadata>

@@ -3,8 +3,8 @@
   <groupId>com.skniro</groupId>
   <artifactId>Maple</artifactId>
   <versioning>
-    <latest>1.4.15-1.21.11-Fabric</latest>
-    <release>1.4.15-1.21.11-Fabric</release>
+    <latest>1.5.0-26.1-snapshot-1-Fabric</latest>
+    <release>1.5.0-26.1-snapshot-1-Fabric</release>
     <versions>
       <version>1.19.2-0.0.1-SNAPSHOT</version>
       <version>1.19.2-0.0.2-SNAPSHOT</version>
@@ -279,7 +279,9 @@
       <version>1.4.15-1.21.11-Forge</version>
       <version>1.4.15-1.21.11-NeoForge</version>
       <version>1.4.15-1.21.11-Fabric</version>
+      <version>1.5.0-26.1-snapshot-1-NeoForge</version>
+      <version>1.5.0-26.1-snapshot-1-Fabric</version>
     </versions>
-    <lastUpdated>20251214101903</lastUpdated>
+    <lastUpdated>20251229113702</lastUpdated>
   </versioning>
 </metadata>

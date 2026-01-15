@@ -3,8 +3,8 @@
   <groupId>com.skniro</groupId>
   <artifactId>Golden_Apple_Tree</artifactId>
   <versioning>
-    <latest>1.2.4-1.21.11-Fabric</latest>
-    <release>1.2.4-1.21.11-Fabric</release>
+    <latest>1.2.2-1.20.1-Forge</latest>
+    <release>1.2.2-1.20.1-Forge</release>
     <versions>
       <version>1.0.0-1.21.4-Forge</version>
       <version>1.0.0-1.21.4-NeoForge</version>
@@ -109,7 +109,27 @@
       <version>1.2.4-1.21.11-Forge</version>
       <version>1.2.4-1.21.11-NeoForge</version>
       <version>1.2.4-1.21.11-Fabric</version>
+      <version>1.2.5-1.21.11-Forge</version>
+      <version>1.2.5-1.21.11-NeoForge</version>
+      <version>1.2.5-1.21.11-Fabric</version>
+      <version>1.2.5-1.21.10-Forge</version>
+      <version>1.2.5-1.21.10-NeoForge</version>
+      <version>1.2.5-1.21.10-Fabric</version>
+      <version>1.2.4-1.21.8-Forge</version>
+      <version>1.2.4-1.21.8-NeoForge</version>
+      <version>1.2.4-1.21.8-Fabric</version>
+      <version>1.2.3-1.21.5-Forge</version>
+      <version>1.2.3-1.21.5-NeoForge</version>
+      <version>1.2.3-1.21.5-Fabric</version>
+      <version>1.2.3-1.21.4-Forge</version>
+      <version>1.2.3-1.21.4-NeoForge</version>
+      <version>1.2.3-1.21.4-Fabric</version>
+      <version>1.2.3-1.21.1-Forge</version>
+      <version>1.2.3-1.21.1-NeoForge</version>
+      <version>1.2.3-1.21.1-Fabric</version>
+      <version>1.2.2-1.20.1-Fabric</version>
+      <version>1.2.2-1.20.1-Forge</version>
     </versions>
-    <lastUpdated>20251211134923</lastUpdated>
+    <lastUpdated>20260114133516</lastUpdated>
   </versioning>
 </metadata>

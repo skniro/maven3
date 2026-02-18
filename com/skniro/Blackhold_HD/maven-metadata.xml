@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.skniro</groupId>
+  <artifactId>Blackhold_HD</artifactId>
+  <versioning>
+    <latest>1.0.0-1.21.11-Fabric</latest>
+    <release>1.0.0-1.21.11-Fabric</release>
+    <versions>
+      <version>1.0.0-1.21.11-Forge</version>
+      <version>1.0.0-1.21.11-NeoForge</version>
+      <version>1.0.0-1.21.11-Fabric</version>
+    </versions>
+    <lastUpdated>20260218150747</lastUpdated>
+  </versioning>
+</metadata>

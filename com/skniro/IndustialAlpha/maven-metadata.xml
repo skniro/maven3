@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.skniro</groupId>
+  <artifactId>IndustialAlpha</artifactId>
+  <versioning>
+    <latest>0.1.1.alpha_pipe.1-1.21.10-Fabric</latest>
+    <release>0.1.1.alpha_pipe.1-1.21.10-Fabric</release>
+    <versions>
+      <version>0.0.0-1.21.10-Forge</version>
+      <version>0.0.0-1.21.10-NeoForge</version>
+      <version>0.0.1.alpha.1-1.21.10-Fabric</version>
+      <version>0.0.1.alpha.2-1.21.10-Fabric</version>
+      <version>0.0.1.alpha.3-1.21.10-Fabric</version>
+      <version>0.0.1.alpha.4-1.21.10-Fabric</version>
+      <version>0.0.1.alpha.5-1.21.10-Fabric</version>
+      <version>0.0.1.alpha.6-1.21.10-Fabric</version>
+      <version>0.0.1.alpha.8-1.21.10-Fabric</version>
+      <version>0.0.1.alpha.9-1.21.10-Fabric</version>
+      <version>0.0.1.alpha.10-1.21.10-Fabric</version>
+      <version>0.0.1.alpha.11-1.21.10-Fabric</version>
+      <version>0.0.1.alpha.12-1.21.10-Fabric</version>
+      <version>0.0.1.alpha.13-1.21.10-Fabric</version>
+      <version>0.0.1.alpha.14-1.21.10-Fabric</version>
+      <version>0.1.0.alpha.1-1.21.10-Fabric</version>
+      <version>0.1.0.alpha.2-1.21.10-Fabric</version>
+      <version>0.1.1.alpha_pipe.1-1.21.10-Fabric</version>
+    </versions>
+    <lastUpdated>20260324134018</lastUpdated>
+  </versioning>
+</metadata>

@@ -3,14 +3,15 @@
   <groupId>com.skniro</groupId>
   <artifactId>GrowableOresThermalCompat</artifactId>
   <versioning>
-    <latest>1.0.3-1.20.1-Forge</latest>
-    <release>1.0.3-1.20.1-Forge</release>
+    <latest>1.0.4-1.20.1-Forge</latest>
+    <release>1.0.4-1.20.1-Forge</release>
     <versions>
       <version>1.0.0-1.20.1-Forge</version>
       <version>1.0.1-1.20.1-Forge</version>
       <version>1.0.2-1.20.1-Forge</version>
       <version>1.0.3-1.20.1-Forge</version>
+      <version>1.0.4-1.20.1-Forge</version>
     </versions>
-    <lastUpdated>20251104095809</lastUpdated>
+    <lastUpdated>20260406110314</lastUpdated>
   </versioning>
 </metadata>

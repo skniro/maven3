@@ -3,8 +3,8 @@
   <groupId>com.skniro</groupId>
   <artifactId>BetterEquipment</artifactId>
   <versioning>
-    <latest>1.1.0-26.1-Fabric</latest>
-    <release>1.1.0-26.1-Fabric</release>
+    <latest>1.1.1-26.1-Fabric</latest>
+    <release>1.1.1-26.1-Fabric</release>
     <versions>
       <version>1.0.0-1.16-1.20.1</version>
       <version>1.0.0-1.20.1</version>
@@ -29,7 +29,10 @@
       <version>1.1.0-26.1-Forge</version>
       <version>1.1.0-26.1-NeoForge</version>
       <version>1.1.0-26.1-Fabric</version>
+      <version>1.1.1-26.1-Forge</version>
+      <version>1.1.1-26.1-NeoForge</version>
+      <version>1.1.1-26.1-Fabric</version>
     </versions>
-    <lastUpdated>20260328065539</lastUpdated>
+    <lastUpdated>20260701055610</lastUpdated>
   </versioning>
 </metadata>

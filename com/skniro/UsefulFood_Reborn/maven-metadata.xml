@@ -3,8 +3,8 @@
   <groupId>com.skniro</groupId>
   <artifactId>UsefulFood_Reborn</artifactId>
   <versioning>
-    <latest>1.5.1-26.1.2-Fabric</latest>
-    <release>1.5.1-26.1.2-Fabric</release>
+    <latest>1.5.1-1.18.2-Forge</latest>
+    <release>1.5.1-1.18.2-Forge</release>
     <versions>
       <version>1.0.0-1.19.2-Fabric</version>
       <version>0.0.0-1.19.2-noForge</version>
@@ -403,7 +403,42 @@
       <version>1.5.1-26.1.2-Forge</version>
       <version>1.5.1-26.1.2-Neoforge</version>
       <version>1.5.1-26.1.2-Fabric</version>
+      <version>1.5.2-26.2-Fabric</version>
+      <version>1.5.2-26.2-Forge</version>
+      <version>1.5.2-26.2-Neoforge</version>
+      <version>1.5.3-26.2-Fabric</version>
+      <version>1.5.3-26.2-Forge</version>
+      <version>1.5.3-26.2-Neoforge</version>
+      <version>1.5.3-26.1.2-Forge</version>
+      <version>1.5.3-26.1.2-Neoforge</version>
+      <version>1.5.3-26.1.2-Fabric</version>
+      <version>1.5.1-1.21.11-Forge</version>
+      <version>1.5.1-1.21.11-Neoforge</version>
+      <version>1.5.1-1.21.11-Fabric</version>
+      <version>1.5.1-1.21.10-Forge</version>
+      <version>1.5.1-1.21.10-Neoforge</version>
+      <version>1.5.1-1.21.10-Fabric</version>
+      <version>1.5.1-1.21.8-Forge</version>
+      <version>1.5.1-1.21.8-Neoforge</version>
+      <version>1.5.1-1.21.8-Fabric</version>
+      <version>1.5.1-1.21.5-Forge</version>
+      <version>1.5.1-1.21.5-Neoforge</version>
+      <version>1.5.1-1.21.5-Fabric</version>
+      <version>1.5.1-1.21.4-Forge</version>
+      <version>1.5.1-1.21.4-Neoforge</version>
+      <version>1.5.1-1.21.4-Fabric</version>
+      <version>1.5.1-1.21.1-Forge</version>
+      <version>1.5.1-1.21.1-Neoforge</version>
+      <version>1.5.1-1.21.1-Fabric</version>
+      <version>1.5.1-1.20.4-Fabric</version>
+      <version>1.5.1-1.20.4-Forge</version>
+      <version>1.5.1-1.20.1-Forge</version>
+      <version>1.5.1-1.20.1-Fabric</version>
+      <version>1.5.1-1.19.2-Fabric</version>
+      <version>1.5.1-1.19.2-Forge</version>
+      <version>1.5.1-1.18.2-Fabric</version>
+      <version>1.5.1-1.18.2-Forge</version>
     </versions>
-    <lastUpdated>20260423121625</lastUpdated>
+    <lastUpdated>20260807124310</lastUpdated>
   </versioning>
 </metadata>

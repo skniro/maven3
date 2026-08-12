@@ -3,8 +3,8 @@
   <groupId>com.skniro</groupId>
   <artifactId>super_apple</artifactId>
   <versioning>
-    <latest>3.3.6-26.1.2-Fabric</latest>
-    <release>3.3.6-26.1.2-Fabric</release>
+    <latest>3.3.7-26.2-NeoForge</latest>
+    <release>3.3.7-26.2-NeoForge</release>
     <versions>
       <version>2.0.7-1.19.4-pre2</version>
       <version>2.0.8-1.19.4-pre3</version>
@@ -191,7 +191,16 @@
       <version>3.3.6-26.1.2-Forge</version>
       <version>3.3.6-26.1.2-NeoForge</version>
       <version>3.3.6-26.1.2-Fabric</version>
+      <version>3.3.6-26.2-Fabric</version>
+      <version>3.3.6-26.2-Forge</version>
+      <version>3.3.6-26.2-NeoForge</version>
+      <version>3.3.7-26.1.2-Forge</version>
+      <version>3.3.7-26.1.2-NeoForge</version>
+      <version>3.3.7-26.1.2-Fabric</version>
+      <version>3.3.7-26.2-Fabric</version>
+      <version>3.3.7-26.2-Forge</version>
+      <version>3.3.7-26.2-NeoForge</version>
     </versions>
-    <lastUpdated>20260423134415</lastUpdated>
+    <lastUpdated>20260807130900</lastUpdated>
   </versioning>
 </metadata>

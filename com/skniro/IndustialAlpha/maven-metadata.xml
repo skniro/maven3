@@ -3,8 +3,8 @@
   <groupId>com.skniro</groupId>
   <artifactId>IndustialAlpha</artifactId>
   <versioning>
-    <latest>0.1.1.alpha_pipe.1-26.1.2-Fabric</latest>
-    <release>0.1.1.alpha_pipe.1-26.1.2-Fabric</release>
+    <latest>0.1.2.alpha.2-26.1.2-Fabric</latest>
+    <release>0.1.2.alpha.2-26.1.2-Fabric</release>
     <versions>
       <version>0.0.0-1.21.10-Forge</version>
       <version>0.0.0-1.21.10-NeoForge</version>
@@ -25,7 +25,9 @@
       <version>0.1.0.alpha.2-1.21.10-Fabric</version>
       <version>0.1.1.alpha_pipe.1-1.21.10-Fabric</version>
       <version>0.1.1.alpha_pipe.1-26.1.2-Fabric</version>
+      <version>0.1.2.alpha.1-26.1.2-Fabric</version>
+      <version>0.1.2.alpha.2-26.1.2-Fabric</version>
     </versions>
-    <lastUpdated>20260414135306</lastUpdated>
+    <lastUpdated>20260504135553</lastUpdated>
   </versioning>
 </metadata>

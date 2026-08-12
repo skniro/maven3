@@ -3,8 +3,8 @@
   <groupId>com.skniro</groupId>
   <artifactId>cherry_village</artifactId>
   <versioning>
-    <latest>1.0.0-26.1-Fabric</latest>
-    <release>1.0.0-26.1-Fabric</release>
+    <latest>1.20.1-1.0.1-Fabric</latest>
+    <release>1.20.1-1.0.1-Fabric</release>
     <versions>
       <version>1.20.1-1.0.0-Forge</version>
       <version>1.20.1-1.0.0-Fabric</version>
@@ -15,7 +15,17 @@
       <version>1.0.0-26.1-Forge</version>
       <version>1.0.0-26.1-NeoForge</version>
       <version>1.0.0-26.1-Fabric</version>
+      <version>1.0.1-26.1-Forge</version>
+      <version>1.0.1-26.1-NeoForge</version>
+      <version>1.0.1-26.1-Fabric</version>
+      <version>1.0.2-26.1-Forge</version>
+      <version>1.0.2-26.1-NeoForge</version>
+      <version>1.0.2-26.1-Fabric</version>
+      <version>1.21.1-1.0.1-NeoForge</version>
+      <version>1.21.1-1.0.1-Fabric</version>
+      <version>1.20.1-1.0.1-Forge</version>
+      <version>1.20.1-1.0.1-Fabric</version>
     </versions>
-    <lastUpdated>20260328060513</lastUpdated>
+    <lastUpdated>20260807133820</lastUpdated>
   </versioning>
 </metadata>

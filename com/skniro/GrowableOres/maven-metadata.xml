@@ -3,8 +3,8 @@
   <groupId>com.skniro</groupId>
   <artifactId>GrowableOres</artifactId>
   <versioning>
-    <latest>3.6.4-1.18.2-Forge</latest>
-    <release>3.6.4-1.18.2-Forge</release>
+    <latest>3.8.0.beta.2-26.2-NeoForge</latest>
+    <release>3.8.0.beta.2-26.2-NeoForge</release>
     <versions>
       <version>0.1.0-1.20.1</version>
       <version>1.0.0-1.20.1</version>
@@ -704,7 +704,10 @@
       <version>3.6.4-1.19.2-Forge</version>
       <version>3.6.4-1.18.2-Fabric</version>
       <version>3.6.4-1.18.2-Forge</version>
+      <version>3.8.0.beta.2-26.2-Fabric</version>
+      <version>3.8.0.beta.2-26.2-Forge</version>
+      <version>3.8.0.beta.2-26.2-NeoForge</version>
     </versions>
-    <lastUpdated>20260808094636</lastUpdated>
+    <lastUpdated>20260824071648</lastUpdated>
   </versioning>
 </metadata>

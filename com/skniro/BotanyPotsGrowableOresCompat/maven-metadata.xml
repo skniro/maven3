@@ -3,8 +3,8 @@
   <groupId>com.skniro</groupId>
   <artifactId>BotanyPotsGrowableOresCompat</artifactId>
   <versioning>
-    <latest>1.0.4-1.21.1-Fabric</latest>
-    <release>1.0.4-1.21.1-Fabric</release>
+    <latest>1.0.5-1.21.1-Fabric</latest>
+    <release>1.0.5-1.21.1-Fabric</release>
     <versions>
       <version>1.0.0-1.21.1-NeoForge</version>
       <version>1.0.0-1.21.1-Fabric</version>
@@ -16,7 +16,9 @@
       <version>1.0.3-1.21.1-Fabric</version>
       <version>1.0.4-1.21.1-NeoForge</version>
       <version>1.0.4-1.21.1-Fabric</version>
+      <version>1.0.5-1.21.1-Fabric</version>
+      <version>1.0.5-1.21.1-NeoForge</version>
     </versions>
-    <lastUpdated>20260426062703</lastUpdated>
+    <lastUpdated>20260827095723</lastUpdated>
   </versioning>
 </metadata>

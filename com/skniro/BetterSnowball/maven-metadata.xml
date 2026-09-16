@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.skniro</groupId>
-  <artifactId>Better_Snowball</artifactId>
+  <artifactId>BetterSnowball</artifactId>
   <versioning>
-    <latest>1.2.3-26.2-NeoForge</latest>
-    <release>1.2.3-26.2-NeoForge</release>
+    <latest>1.2.3-26.3-NeoForge</latest>
+    <release>1.2.3-26.3-NeoForge</release>
     <versions>
       <version>1.20.1-1.0.0-Fabric</version>
       <version>1.20.1-1.0.0-Forge</version>
@@ -84,7 +84,9 @@
       <version>1.2.3-26.2-Fabric</version>
       <version>1.2.3-26.2-Forge</version>
       <version>1.2.3-26.2-NeoForge</version>
+      <version>1.2.3-26.3-Fabric</version>
+      <version>1.2.3-26.3-NeoForge</version>
     </versions>
-    <lastUpdated>20260626074733</lastUpdated>
+    <lastUpdated>20260916105445</lastUpdated>
   </versioning>
 </metadata>

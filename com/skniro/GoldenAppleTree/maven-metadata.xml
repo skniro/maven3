@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.skniro</groupId>
-  <artifactId>Golden_Apple_Tree</artifactId>
+  <artifactId>GoldenAppleTree</artifactId>
   <versioning>
-    <latest>1.2.6-26.2-NeoForge</latest>
-    <release>1.2.6-26.2-NeoForge</release>
+    <latest>1.2.6-26.3-NeoForge</latest>
+    <release>1.2.6-26.3-NeoForge</release>
     <versions>
       <version>1.0.0-1.21.4-Forge</version>
       <version>1.0.0-1.21.4-NeoForge</version>
@@ -138,7 +138,9 @@
       <version>1.2.6-26.2-Fabric</version>
       <version>1.2.6-26.2-Forge</version>
       <version>1.2.6-26.2-NeoForge</version>
+      <version>1.2.6-26.3-Fabric</version>
+      <version>1.2.6-26.3-NeoForge</version>
     </versions>
-    <lastUpdated>20260626082646</lastUpdated>
+    <lastUpdated>20260916121921</lastUpdated>
   </versioning>
 </metadata>

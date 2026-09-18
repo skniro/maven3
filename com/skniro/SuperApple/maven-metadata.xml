@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.skniro</groupId>
-  <artifactId>super_apple</artifactId>
+  <artifactId>SuperApple</artifactId>
   <versioning>
-    <latest>3.3.7-26.2-NeoForge</latest>
-    <release>3.3.7-26.2-NeoForge</release>
+    <latest>3.3.7-26.3-NeoForge</latest>
+    <release>3.3.7-26.3-NeoForge</release>
     <versions>
       <version>2.0.7-1.19.4-pre2</version>
       <version>2.0.8-1.19.4-pre3</version>
@@ -200,7 +200,9 @@
       <version>3.3.7-26.2-Fabric</version>
       <version>3.3.7-26.2-Forge</version>
       <version>3.3.7-26.2-NeoForge</version>
+      <version>3.3.7-26.3-Fabric</version>
+      <version>3.3.7-26.3-NeoForge</version>
     </versions>
-    <lastUpdated>20260807130900</lastUpdated>
+    <lastUpdated>20260918082613</lastUpdated>
   </versioning>
 </metadata>

@@ -360,7 +360,8 @@
       <version>1.5.3.beta.1-26.2-Fabric</version>
       <version>1.6.0-26.3-Fabric</version>
       <version>1.6.0-26.3-NeoForge</version>
+      <version>1.6.0-26.3-Forge</version>
     </versions>
-    <lastUpdated>20260919053744</lastUpdated>
+    <lastUpdated>20260920092519</lastUpdated>
   </versioning>
 </metadata>

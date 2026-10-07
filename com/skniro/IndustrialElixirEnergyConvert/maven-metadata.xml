@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.skniro</groupId>
+  <artifactId>IndustrialElixirEnergyConvert</artifactId>
+  <versioning>
+    <latest>1.0.0-26.1.2-Fabric</latest>
+    <release>1.0.0-26.1.2-Fabric</release>
+    <versions>
+      <version>1.0.0-26.3-Fabric</version>
+      <version>1.0.0-26.2-Fabric</version>
+      <version>1.0.0-26.1.2-Fabric</version>
+    </versions>
+    <lastUpdated>20261002111557</lastUpdated>
+  </versioning>
+</metadata>
